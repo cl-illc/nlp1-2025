@@ -16,11 +16,11 @@ Teaching assistants:
 - [Baohao Liao](mailto:b.liao@uva.nl)
 - [Vera Neplenbroek](mailto:veraneplenbroek@icloud.com)
 - [Massimo Spaconi](mailto:massimo.spaconi@gmail.com)
-- [Rene Emmaneel](mailto:)
-- [Stefan Wijnja](mailto:)
-- [Simone Astarita](mailto:)
-- [Lukas Knobel](mailto:)
-- [Victor Kyriacou](mailto:)
+- [Rene Emmaneel](mailto:rene.emmaneel@student.uva.nl)
+- [Stefan Wijnja](mailto:s.wijnja@me.com)
+- [Simone Astarita](mailto:simone.astarita@student.uva.nl)
+- [Lukas Knobel](mailto:lukas.knobel@student.uva.nl)
+- [Victor Kyriacou](mailto:victor.kyriacou@student.uva.nl)
 
 
 
