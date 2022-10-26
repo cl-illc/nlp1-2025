@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2018-10-28
+  date: 2022-11-01
   img: introduction-icon_1-267x300
   uid: intro
   title: "Introduction"
@@ -11,8 +11,8 @@
     "Introduction to the course"
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture1.pdf
-  video: https://webcolleges.uva.nl/Mediasite/Play/2b7ee0de251e407bb8361d1a3d4a02d61d
+  slides: 
+  video: 
   further: 
     - "Chapter 4: [Naive Bayes classification and sentiment](https://web.stanford.edu/~jurafsky/slp3/4.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
@@ -20,7 +20,7 @@
 -
   layout: lecture
   selected: y
-  date: 2018-10-30
+  date: 2022-11-03
   img: PoS
   uid: lec2
   title: "Language models and part-of-speech tagging"
@@ -40,8 +40,8 @@
 -
   layout: lecture
   selected: y
-  date: 2018-11-04
-  img: Morphology
+  date: 2018-11-08
+  img: Parsing
   uid: lec3
   title: "Modelling structure: morphology and syntax"
   instructor: "Ekaterina Shutova"
@@ -61,29 +61,10 @@
 -
   layout: lecture
   selected: y
-  date: 2018-11-06
-  img: Parsing
-  uid: lec4
-  title: "Syntactic parsing (finishing off). Lexical semantics"
-  instructor: "Ekaterina Shutova"
-  note: 
-  abstract: >
-    "In this lecture, we will discuss lexical semantics, i.e. modelling the meaning of words."
-  background:
-  discussion:
-  slides: resources/slides/NLP1-lecture4.pdf
-  video: https://webcolleges.uva.nl/Mediasite/Play/06691700e11f497787def3d797273ee41d
-  further: 
-     - "Chapter 19: [Word Senses and WordNet](https://web.stanford.edu/~jurafsky/slp3/19.pdf) in Jurafsky and Martin (3rd edition)."
-  code: 
-  data:    
--
-  layout: lecture
-  selected: y
-  date: 2018-11-11
+  date: 2018-11-10
   img: vectors
-  uid: lec5
-  title: "Distributional semantics"
+  uid: lec4
+  title: "Lexical and distributional semantics"
   instructor: "Ekaterina Shutova"
   note: 
   abstract: >
@@ -91,7 +72,7 @@
   background:
   discussion:
   slides: resources/slides/NLP1-lecture5.pdf
-  video: https://webcolleges.uva.nl/Mediasite/Play/6cc05797d7b34625991d4de70341a33f1d
+  video: 
   further: 
     - "Chapter 6: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
