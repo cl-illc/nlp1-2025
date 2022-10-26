@@ -125,9 +125,9 @@
 -
   layout: lecture
   selected: y
-  date: 2018-11-25
+  date: 2022-11-22
   img: Discourse
-  uid: lec8
+  uid: lec7
   title: "Discourse processing"
   instructor: "Ekaterina Shutova"
   note: 
@@ -135,32 +135,50 @@
     "In this lecture, we will discuss discourse processing, i.e. modelling larger text fragments."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture8.pdf
+  slides: 
   further: 
     - "Chapter 22: [Coreference resolution](https://web.stanford.edu/~jurafsky/slp3/22.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 23: [Discourse coherence](https://web.stanford.edu/~jurafsky/slp3/23.pdf) in Jurafsky and Martin (3rd edition)." 
-  video: https://webcolleges.uva.nl/Mediasite/Play/f3b9d0da6cb944ecbeb7a736340b7d981d
+  video: 
   code: 
   data:  
 -
   layout: lecture
   selected: y
-  date: 2018-11-27
-  img: Mitchell-et-al
-  uid: lec9
-  title: "Two guest lectures: NLP and human language processing & Dialogue modelling"
-  instructor: "Jelle Zuidema and Raquel Fernandez"
+  date: 2022-11-29
+  img: srn
+  uid: lec8
+  title: "Deep learning for sequence processing"
+  instructor: "Wilker Aziz"
   note: 
   abstract: >
-    "In these two guest lectures, we will discuss the relationship between some NLP techniques and human sentence processing, and then introduce an important NLP application -- dialogue modelling."
+    "In this session, we will discuss applications of deep learning to sequence processing tasks, which have seen earlier in the course."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture9.pdf
+  slides: 
+  further:
+  video: 
+  code: 
+  data:   
+-
+  layout: lecture
+  selected: y
+  date: 2022-12-01
+  img: Dialogue
+  uid: lec9
+  title: "Dialogue modelling"
+  instructor: "Raquel Fernandez"
+  note: 
+  abstract: >
+    "In this lecture, we will introduce an important NLP application -- dialogue modelling."
+  background:
+  discussion:
+  slides: 
   further:
     - "Chapter 26: [Dialogue systems and chatbots](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
-  video: https://webcolleges.uva.nl/Mediasite/Play/640efe55482647188f888d4d337a80d51d
+  video: 
   code: 
-  data:    
+  data:  
 -
   layout: lecture
   selected: y
