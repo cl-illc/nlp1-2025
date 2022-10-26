@@ -6,20 +6,21 @@ This is the page of the course *Natural Language Processing 1* offered at the [U
 
 Course coordinator: [Ekaterina Shutova](https://www.shutova.org/)
 
-Lab coordinator: [Mario Giulianelli](http://gmario.eu/)
+Lab coordinator: [Rochelle Choenni](mailto:r.m.v.k.choenni@uva.nl )
 
-Senior teaching assistant: [Christos Athanasiadis](mailto:c.athanasiadis@uva.nl)
+Senior teaching assistant: [Pieter Pierrot](mailto:p.j.pierrot@uva.nl)
 
 Teaching assistants:
-- [Ece Takmaz](mailto:e.k.takmaz@uva.nl)
-- [Jaap Jumelet](mailto:jumeletjaap@gmail.com)
-- [Christoph Hönes](mailto:christoph.hoenes@googlemail.com)
-- [Tamara Czinczoll](mailto:t.czinczoll@gmail.com)
+- [Ivo Verhoeven](mailto:ivo.onno.verhoeven@gmail.com)
+- [Alina Leidinger](mailto:a.j.leidinger@uva.nl)
+- [Baohao Liao](mailto:b.liao@uva.nl)
+- [Vera Neplenbroek](mailto:veraneplenbroek@icloud.com)
 - [Massimo Spaconi](mailto:massimo.spaconi@gmail.com)
-- [Oliviero Nardi](mailto:olivieronardi@gmail.com)
-- [Omar Elbaghdadi](mailto:omarelb@gmail.com)
-- [Anna Langedijk](mailto:annalangedijk@gmail.com)
-- [Hannah Lim](mailto:hannahlim.lim@student.uva.nl)
+- [Rene Emmaneel](mailto:)
+- [Stefan Wijnja](mailto:)
+- [Simone Astarita](mailto:)
+- [Lukas Knobel](mailto:)
+- [Victor Kyriacou](mailto:)
 
 
 
