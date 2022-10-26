@@ -225,35 +225,35 @@
 -
   layout: lecture
   selected: y
-  date: 2018-12-09
+  date: 2022-12-13
   img: Twitter
   uid: lec12
-  title: "NLP and social media analysis"
-  instructor: "Reshmi Gopalakrishna Pillai"
+  title: "Bias in NLP models"
+  instructor: "Oskar van der Wal"
   note: 
   abstract: >
-    "We will discuss the applications of NLP in the area of social media analysis and the challenges associated with processing the language of social media."
+    "We will discuss different kinds of social biases that NLP models may inadvertently encode."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture12.pdf
+  slides: 
   further: 
-  video: https://webcolleges.uva.nl/Mediasite/Play/5ba30467815743a8a4fc7a29cdba88cd1d
+  video: 
   code: 
   data:  
 -
   layout: lecture
   selected: y
-  date: 2020-12-11
+  date: 2020-12-15
   img: Live-1
   uid: lec-final
-  title: "Live lecture: Summary of the course (4pm)"
+  title: "Summary of the course"
   instructor: "Ekaterina Shutova"
   note: 
   abstract: >
-    "In this mini-lecture, we will give you a brief summary of the course and how different areas we have studied interface."
+    "In this lecture, we will give you a brief summary of the course and how different areas we have studied interface. We will also discuss what to expect at the exam."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture14.pdf
+  slides: 
   further:
   video: 
   code: 
