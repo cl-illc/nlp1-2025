@@ -182,7 +182,7 @@
 -
   layout: lecture
   selected: y
-  date: 2018-12-02
+  date: 2022-12-06
   img: Summarization
   uid: lec10
   title: "Language generation and summarisation"
@@ -192,34 +192,34 @@
     "In this lecture, we will talk about language generation and cover a particular language generation task, text summarisation, in more detail."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture10.pdf
+  slides: 
   further: 
     - "A survey of recent summarisation techniques is available [here](https://arxiv.org/pdf/1804.04589.pdf)"
     - "An introduction to sequence-to-sequence models: [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
-  video: https://webcolleges.uva.nl/Mediasite/Play/54d99bd9dcdd476a8b3543ecfc6110cc1d
+  video: 
   code: 
   data:  
 -
   layout: lecture
   selected: y
-  date: 2018-12-04
+  date: 2022-12-08
   img: MT
   uid: lec11
   title: "Machine translation"
-  instructor: "Reshmi Gopalakrishna Pillai"
+  instructor: "Christof Monz"
   note: 
   abstract: >
     "We will discuss the fundamentals of machine translation, including word-based / alignment models and phrase-based SMT"
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture11.pdf
+  slides: 
   further: 
     - "[Explanation of IBM models 1 and 2](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/ibm12.pdf)"
     - "[Word based IBM models](http://www.aclweb.org/anthology/J93-2003)"
     - "[Phrase-based SMT](http://www.aclweb.org/anthology/N03-1017) and this [book](http://www.statmt.org/book/)"
     - "[Neural Encoder-Decoder](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
     - "[The Annotated Encoder-Decoder blog post](https://bastings.github.io/annotated_encoder_decoder/)"
-  video: https://webcolleges.uva.nl/Mediasite/Play/30452f7769b84d0fba0b603ea7ea396c1d
+  video: 
   code: 
   data:  
 -
