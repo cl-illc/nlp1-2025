@@ -9,7 +9,7 @@
   abstract: 
   background:
   discussion:
-  instructions: https://colab.research.google.com/drive/1TgP3pa6hFMfWMtYn3x7psxw87ycMR4vj?usp=sharing
+  instructions: https://colab.research.google.com/drive/19UL_tKEI8N8OjVkMHDg_TiuTEdx4xr67?usp=sharing
   data:
   code:
 -
@@ -37,7 +37,7 @@
   abstract:
   background:
   discussion:
-  instructions: https://colab.research.google.com/drive/1fA8Q4L3kTtg_HCuIqVuqJ6ZiwN5yyLU1?usp=sharing
+  instructions: 
   data: assessment.html
   code:
 
