@@ -31,8 +31,9 @@
   background:
   discussion:
   slides: resources/slides/NLP1-lecture2.pdf
-  video: 
+  video: https://webcolleges.uva.nl/Mediasite/Play/ed24f15464dc43dcbafdb9e8c0c700d81d
   further: 
+    - "Part-of-speech tagging video can be found [here](https://webcolleges.uva.nl/Mediasite/Play/c44f96cb9b18474ab23b66a40691fa641d)"
     - "Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 8: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
