@@ -51,7 +51,7 @@
     "In this lecture, we will discuss morphological processing and syntactic parsing"
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture3.pdf
   video: 
   further: 
     - "Lecture notes on moprphology are available [here](https://cl-illc.github.io/nlp1/resources/slides/Morphology-notes.pdf)"
