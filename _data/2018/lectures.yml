@@ -73,7 +73,7 @@
   background:
   discussion:
   slides: resources/slides/NLP1-lecture4.pdf
-  video: 
+  video: https://webcolleges.uva.nl/Mediasite/Play/6034fed911a345ea95f0025afb8d97491d?playFrom=240000&duration=6258000
   further: 
     - "Chapter 19: [Word Senses and WordNet](https://web.stanford.edu/~jurafsky/slp3/19.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 6: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
