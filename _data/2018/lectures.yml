@@ -72,7 +72,7 @@
     "In this lecture, we will introduce statistical models of word meaning"
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture4.pdf
   video: 
   further: 
     - "Chapter 19: [Word Senses and WordNet](https://web.stanford.edu/~jurafsky/slp3/19.pdf) in Jurafsky and Martin (3rd edition)."
