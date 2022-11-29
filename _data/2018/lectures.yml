@@ -156,7 +156,7 @@
     "In this session, we will discuss applications of deep learning to sequence processing tasks, which have seen earlier in the course."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture8.pdf
+  slides: resources/slides/NLP1_lecture8.pdf
   further:
   video: 
   code: 
