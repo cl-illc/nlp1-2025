@@ -174,7 +174,7 @@
     "In this lecture, we will introduce an important NLP application -- dialogue modelling."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-DialogueModelling-2022.pdf
   further:
     - "Chapter 26: [Dialogue systems and chatbots](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
   video: 
