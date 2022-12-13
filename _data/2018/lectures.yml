@@ -233,7 +233,7 @@
     "We will discuss different kinds of social biases that NLP models may inadvertently encode."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture12.pdf
   further: 
   video: 
   code: 
