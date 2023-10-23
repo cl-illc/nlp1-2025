@@ -179,7 +179,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-12-06
+  date: 2022-12-05
   img: Summarization
   uid: lec10
   title: "Language generation and summarisation"
@@ -199,7 +199,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-12-08
+  date: 2022-12-07
   img: MT
   uid: lec11
   title: "Machine translation"
@@ -238,7 +238,7 @@
 -
   layout: lecture
   selected: y
-  date: 2020-12-15
+  date: 2020-12-14
   img: Live-1
   uid: lec-final
   title: "Summary of the course and Q&A"
