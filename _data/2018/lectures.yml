@@ -123,7 +123,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-11-22
+  date: 2022-11-21
   img: Discourse
   uid: lec7
   title: "Discourse processing"
@@ -133,47 +133,46 @@
     "In this lecture, we will discuss discourse processing, i.e. modelling larger text fragments."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture7.pdf
+  slides: 
   further: 
     - "Chapter 22: [Coreference resolution](https://web.stanford.edu/~jurafsky/slp3/22.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 23: [Discourse coherence](https://web.stanford.edu/~jurafsky/slp3/23.pdf) in Jurafsky and Martin (3rd edition)." 
-  video: https://webcolleges.uva.nl/Mediasite/Play/1449246158ab49a2975a48479ae6be5a1d
+  video: 
   code: 
   data:  
 -
   layout: lecture
   selected: y
-  date: 2022-11-29
+  date: 2022-11-28
   img: srn
   uid: lec8
-  title: "Deep learning for sequence processing"
-  instructor: "Wilker Aziz"
+  title: "Large language models"
+  instructor: "Ekaterina Shutova"
   note: 
   abstract: >
-    "In this session, we will discuss applications of deep learning to sequence processing tasks, which have seen earlier in the course."
+    "In this session, we will discuss large language models, their pretraining strategies, their architectures and their applications."
   background:
   discussion:
-  slides: resources/slides/NLP1_lecture8.pdf
+  slides: 
   further:
-  video: https://webcolleges.uva.nl/Mediasite/Play/e64252a0437a46979ad7fcea1e08e40e1d
+  video: 
   code: 
-  data:   
+  data:  
 -
   layout: lecture
   selected: y
-  date: 2022-12-01
-  img: dialogue
+  date: 2022-11-30
+  img: Twitter
   uid: lec9
-  title: "Dialogue modelling"
-  instructor: "Raquel Fernandez"
+  title: "Interpretability of NLP models"
+  instructor: "Jaap Jumelet"
   note: 
   abstract: >
-    "In this lecture, we will introduce an important NLP application -- dialogue modelling."
+    "We will discuss techniques that allow us to better understand what kind of information neural language models encode and how they do it."
   background:
   discussion:
-  slides: resources/slides/NLP1-DialogueModelling-2022.pdf
-  further:
-    - "Chapter 26: [Dialogue systems and chatbots](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
+  slides: 
+  further: 
   video: 
   code: 
   data:  
@@ -214,43 +213,44 @@
   further: 
     - "[Neural Encoder-Decoder](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
     - "[The Annotated Encoder-Decoder blog post](https://bastings.github.io/annotated_encoder_decoder/)"
-  video: https://webcolleges.uva.nl/Mediasite/Play/733d752f10f943c8a2c08de8633d4b781d
+  video: 
   code: 
   data:  
 -
   layout: lecture
   selected: y
-  date: 2022-12-13
-  img: Twitter
+  date: 2022-12-12
+  img: dialogue
   uid: lec12
-  title: "Bias in NLP models"
-  instructor: "Oskar van der Wal"
+  title: "Dialogue modelling"
+  instructor: "Alberto Testoni and Esam Ghaleb"
   note: 
   abstract: >
-    "We will discuss different kinds of social biases that NLP models may inadvertently encode."
+    "In this lecture, we will introduce an important NLP application -- dialogue modelling."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture12.pdf
-  further: 
-  video: https://webcolleges.uva.nl/Mediasite/Play/7a589fae71e148068cb7aa4843d51ffe1d
+  slides: 
+  further:
+    - "Chapter 26: [Dialogue systems and chatbots](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
+  video: 
   code: 
-  data:  
+  data:    
 -
   layout: lecture
   selected: y
   date: 2020-12-15
   img: Live-1
   uid: lec-final
-  title: "Recent advances and summary of the course"
+  title: "Summary of the course and Q&A"
   instructor: "Ekaterina Shutova"
   note: 
   abstract: >
     "In this lecture, we will give you a brief summary of the course and how different areas we have studied interface. We will also discuss what to expect at the exam."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture13.pdf
+  slides: 
   further:
-  video: https://webcolleges.uva.nl/Mediasite/Play/0faebcbb67624bc9811f8275d8d0866c1d 
+  video: 
   code: 
   data:   
 
