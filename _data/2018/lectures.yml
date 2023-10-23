@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-11-01
+  date: 2022-10-31
   img: introduction-icon_1-267x300
   uid: intro
   title: "Introduction"
@@ -12,7 +12,7 @@
   background:
   discussion:
   slides: resources/slides/NLP1-lecture1.pdf
-  video: https://webcolleges.uva.nl/Mediasite/Play/96a89d88607c4de0ade59565ae5351001d
+  video: 
   further: 
     - "Chapter 4: [Naive Bayes classification and sentiment](https://web.stanford.edu/~jurafsky/slp3/4.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
@@ -20,22 +20,20 @@
 -
   layout: lecture
   selected: y
-  date: 2022-11-03
+  date: 2022-11-02
   img: PoS
   uid: lec2
-  title: "Language models and part-of-speech tagging"
-  instructor: "Ekaterina Shutova"
+  title: "Language modelling"
+  instructor: "Wilker Aziz"
   note: 
   abstract: >
-    "In this lecture, we will discuss language models, i.e. modelling word sequences, and part-of-speech tagging"
+    "In this lecture, we will discuss language models, i.e. modelling word sequences, using statistical techniques"
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture2.pdf
-  video: https://webcolleges.uva.nl/Mediasite/Play/ed24f15464dc43dcbafdb9e8c0c700d81d
+  slides: 
+  video: 
   further: 
-    - "Part-of-speech tagging video can be found [here](https://webcolleges.uva.nl/Mediasite/Play/c44f96cb9b18474ab23b66a40691fa641d)"
     - "Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
-    - "Chapter 8: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
   data:  
 -
@@ -44,17 +42,18 @@
   date: 2022-11-08
   img: Parsing
   uid: lec3
-  title: "Modelling structure: morphology and syntax"
+  title: "Morphology and PoS tagging"
   instructor: "Ekaterina Shutova"
   note: 
   abstract: >
     "In this lecture, we will discuss morphological processing and syntactic parsing"
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture3.pdf
-  video: https://webcolleges.uva.nl/Mediasite/Play/52d466096909486cb3b5ebcb6bf12ed91d
+  slides: 
+  video:
   further: 
     - "Lecture notes on moprphology are available [here](https://cl-illc.github.io/nlp1/resources/slides/Morphology-notes.pdf)"
+    - "Chapter 8: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 12: [Constituency grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 13: [Constituency parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
