@@ -4,7 +4,7 @@ layout: main
 
 This is the page of the course *Natural Language Processing 1* offered at the [University of Amsterdam](http://www.uva.nl/)
 
-Course coordinator: [Ekaterina Shutova](https://www.shutova.org/)
+Course coordinators: [Ekaterina Shutova](https://www.shutova.org/) and [Wilker Aziz](https://wilkeraziz.github.io/)
 
 Lab coordinator: [Rochelle Choenni](mailto:r.m.v.k.choenni@uva.nl )
 
