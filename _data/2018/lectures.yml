@@ -27,7 +27,7 @@
   instructor: "Wilker Aziz"
   note: 
   abstract: >
-    "In this lecture, we will discuss language models, i.e. modelling word sequences, using statistical techniques"
+    "In this lecture, we will discuss language models, i.e. modelling word sequences, using statistical techniques."
   background:
   discussion:
   slides: 
@@ -39,14 +39,14 @@
 -
   layout: lecture
   selected: y
-  date: 2022-11-08
+  date: 2022-11-07
   img: Parsing
   uid: lec3
   title: "Morphology and PoS tagging"
-  instructor: "Ekaterina Shutova"
+  instructor: "Wilker Aziz"
   note: 
   abstract: >
-    "In this lecture, we will discuss morphological processing and syntactic parsing"
+    "In this lecture, we will discuss morphological processing and part-of-speech tagging."
   background:
   discussion:
   slides: 
@@ -61,48 +61,46 @@
 -
   layout: lecture
   selected: y
-  date: 2022-11-10
+  date: 2022-11-09
   img: vectors
   uid: lec4
-  title: "Lexical and distributional semantics"
-  instructor: "Ekaterina Shutova"
+  title: "Modelling structure: Syntax and semantics"
+  instructor: "Wilker Aziz"
   note: 
   abstract: >
-    "In this lecture, we will introduce statistical models of word meaning"
+    "In this lecture, we will introduce syntax and discuss algorithms for syntactic and semantic parsing"
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture4.pdf
-  video: https://webcolleges.uva.nl/Mediasite/Play/6034fed911a345ea95f0025afb8d97491d
+  slides: 
+  video: 
   further: 
-    - "Chapter 19: [Word Senses and WordNet](https://web.stanford.edu/~jurafsky/slp3/19.pdf) in Jurafsky and Martin (3rd edition)."
-    - "Chapter 6: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
-  code: 
   data:  
 -
   layout: lecture
   selected: y
-  date: 2022-11-15
+  date: 2022-11-14
   img: skip-gram
   uid: lec5
-  title: "Generalisation and word embeddings"
+  title: "Lexical semantics and word embeddings"
   instructor: "Ekaterina Shutova"
   note: 
   abstract: >
-    "In this lecture, we will discuss generalisation from words to semantic classes and learning dense vector representations - word embeddings."
+    "In this lecture, we will introduce statistical models of word meaning, discuss generalisation from words to semantic classes and learning dense vector representations - word embeddings."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture5.pdf
+  slides: 
   further: 
+    - "Chapter 19: [Word Senses and WordNet](https://web.stanford.edu/~jurafsky/slp3/19.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 6: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
     - "A gentle introduction to neural networks can be found [here](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)"
     - "The following paper provides a nice explanation of skip-gram with negative sampling: Yoav Goldberg and Omer Levy. [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
-  video: https://webcolleges.uva.nl/Mediasite/Play/23aa3beb503c4d22887460d0a6b322ae1d
+  video: 
   code: 
   data:    
 -
   layout: lecture
   selected: y
-  date: 2022-11-17
+  date: 2022-11-16
   img: srn
   uid: lec6
   title: "Compositional semantics and sentence representations"
@@ -112,14 +110,14 @@
     "In this lecture, we will discuss compositional semantics, i.e. modelling the meaning of phrases and sentences, and learning neural representations of sentences."
   background:
   discussion:
-  slides: resources/slides/Lecture_6_2022_Choenni.pdf
+  slides: 
   further: 
     - "Chapter 7: [Neural networks and neural language models](https://web.stanford.edu/~jurafsky/slp3/7.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 9: [Sequence processing with recurrent neural networks](https://web.stanford.edu/~jurafsky/slp3/9.pdf) in Jurafsky and Martin (3rd edition)."
     - "A good and general reference for Neural Networks in NLP: Yoav Goldberg. [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726)"
     - "A gentle introduction to LSTMs is available [here](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)"
     - "This is one of the papers that have introduced tree LSTM models: Kai Sheng Tai, Richard Socher, and Christopher D. Manning. [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://aclweb.org/anthology/P/P15/P15-1150.pdf)" 
-  video: https://webcolleges.uva.nl/Mediasite/Play/d41fe62d690c44ab8494c0384f48a7501d
+  video: 
   code: 
   data:    
 -
