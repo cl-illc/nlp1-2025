@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-10-31
+  date: 2023-10-26
   img: prac
   uid: practical1
   title: "Practical I"
@@ -9,13 +9,13 @@
   abstract: 
   background:
   discussion:
-  instructions: https://colab.research.google.com/drive/19UL_tKEI8N8OjVkMHDg_TiuTEdx4xr67?usp=sharing
+  instructions: https://colab.research.google.com/drive/1BJVOFqiw5V6GK9oHt9R3GFVRFWtP5DXa?usp=sharing
   data:
   code:
 -
   layout: lecture
   selected: y
-  date: 2022-10-31
+  date: 2022-11-01
   img: prac
   uid: intropytorch
   title: "Introduction to PyTorch"
@@ -29,7 +29,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-11-13
+  date: 2023-11-16
   img: prac
   uid: practical2
   title: "Practical II"
@@ -37,7 +37,7 @@
   abstract:
   background:
   discussion:
-  instructions: https://colab.research.google.com/drive/1xmguWnEH0Ay7YeOaxTKXf2j-1WDhrqV6?usp=sharing
+  instructions: 
   data: assessment.html
   code:
 
