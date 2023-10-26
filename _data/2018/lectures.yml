@@ -25,12 +25,12 @@
   uid: lec2
   title: "Language modelling"
   instructor: "Wilker Aziz"
-  note: 
+  note: The slides are a preview of the interactive lecture (using mentimeter)
   abstract: >
     "In this lecture, we will discuss language models, i.e. modelling word sequences, using statistical techniques."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/week1-class2-language-modelling.pdf
   video: 
   further: 
     - "Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
