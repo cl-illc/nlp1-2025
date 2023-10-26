@@ -11,17 +11,19 @@ Lab coordinator: [Rochelle Choenni](mailto:r.m.v.k.choenni@uva.nl )
 Senior teaching assistant: [Pieter Pierrot](mailto:p.j.pierrot@uva.nl)
 
 Teaching assistants:
-- [Ivo Verhoeven](mailto:ivo.onno.verhoeven@gmail.com)
+- [Vera Neplenbroek](mailto:veraneplenbroek@icloud.com)
 - [Alina Leidinger](mailto:a.j.leidinger@uva.nl)
 - [Baohao Liao](mailto:b.liao@uva.nl)
-- [Vera Neplenbroek](mailto:veraneplenbroek@icloud.com)
-- [Massimo Spaconi](mailto:massimo.spaconi@gmail.com)
-- [Rene Emmaneel](mailto:rene.emmaneel@student.uva.nl)
-- [Stefan Wijnja](mailto:s.wijnja@me.com)
-- [Simone Astarita](mailto:simone.astarita@student.uva.nl)
-- [Lukas Knobel](mailto:lukas.knobel@student.uva.nl)
-- [Victor Kyriacou](mailto:victor.kyriacou@student.uva.nl)
-
+- [Effy Li](mailto:x.li3@uva.nl)
+- [Eric Zila](mailto:zila.eric@gmail.com)
+- [Evgenia Ilia](mailto:e.ilia@uva.nl)
+- [Joris Baan](mailto:j.s.baan@uva.nl)
+- [Kieron Kretschmar](mailto:kieron.kretschmar@outlook.com)
+- [Marta Grasa](mailto:mgrasala@gmail.com)
+- [Maya Nachesa](mailto:m.k.nachesa@uva.nl)
+- [Pedro Ferreira](mailto:p.m.ferreira@uva.nl)
+- [Shaomu Tan](mailto:s.tan@uva.nl)
+- [Wafaa Mohammed](mailto:w.m.a.mohammed@uva.nl)
 
 
 ## Course registration
