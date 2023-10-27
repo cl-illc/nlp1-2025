@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-10-31
+  date: 2023-10-31
   img: introduction-icon_1-267x300
   uid: intro
   title: "Introduction"
@@ -20,7 +20,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-11-02
+  date: 2023-11-02
   img: PoS
   uid: lec2
   title: "Language modelling"
@@ -40,7 +40,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-11-07
+  date: 2023-11-07
   img: Parsing
   uid: lec3
   title: "Morphology and part-of-speech tagging"
@@ -60,7 +60,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-11-09
+  date: 2023-11-09
   img: vectors
   uid: lec4
   title: "Modelling structure: Syntax and semantics"
@@ -79,7 +79,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-11-14
+  date: 2023-11-14
   img: skip-gram
   uid: lec5
   title: "Lexical semantics and word embeddings"
@@ -101,7 +101,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-11-16
+  date: 2023-11-16
   img: srn
   uid: lec6
   title: "Compositional semantics and sentence representations"
@@ -124,7 +124,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-11-21
+  date: 2023-11-21
   img: Discourse
   uid: lec7
   title: "Discourse processing"
@@ -144,7 +144,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-11-28
+  date: 2023-11-28
   img: srn
   uid: lec8
   title: "Large language models"
@@ -162,7 +162,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-11-30
+  date: 2023-11-30
   img: Twitter
   uid: lec9
   title: "Interpretability of NLP models"
@@ -180,7 +180,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-12-05
+  date: 2023-12-05
   img: Summarization
   uid: lec10
   title: "Language generation and summarisation"
@@ -200,7 +200,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-12-07
+  date: 2023-12-07
   img: MT
   uid: lec11
   title: "Machine translation"
@@ -220,7 +220,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-12-12
+  date: 2023-12-12
   img: dialogue
   uid: lec12
   title: "Dialogue modelling"
@@ -239,7 +239,7 @@
 -
   layout: lecture
   selected: y
-  date: 2020-12-14
+  date: 2023-12-14
   img: Live-1
   uid: lec-final
   title: "Summary of the course and Q&A"
