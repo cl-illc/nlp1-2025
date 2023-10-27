@@ -14,7 +14,7 @@ Teaching assistants:
 - [Vera Neplenbroek](mailto:veraneplenbroek@icloud.com)
 - [Alina Leidinger](mailto:a.j.leidinger@uva.nl)
 - [Baohao Liao](mailto:b.liao@uva.nl)
-- [Effy Li](mailto:x.li3@uva.nl)
+- [Effy Xue Li](mailto:x.li3@uva.nl)
 - [Eric Zila](mailto:zila.eric@gmail.com)
 - [Evgenia Ilia](mailto:e.ilia@uva.nl)
 - [Joris Baan](mailto:j.s.baan@uva.nl)
