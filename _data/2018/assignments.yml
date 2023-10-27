@@ -15,7 +15,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-11-01
+  date: 2023-10-27
   img: prac
   uid: intropytorch
   title: "Introduction to PyTorch"
@@ -23,7 +23,7 @@
   abstract: 
   background:
   discussion:
-  instructions: https://colab.research.google.com/drive/101rgxgNokVMzcjjAp7EkAnbwc3wexd8B?usp=sharing
+  instructions: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html
   data:
   code:
 -
