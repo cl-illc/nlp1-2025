@@ -41,7 +41,7 @@
   layout: lecture
   selected: y
   date: 2023-11-07
-  img: Parsing
+  img: PoS
   uid: lec3
   title: "Morphology and part-of-speech tagging"
   instructor: "Wilker Aziz"
@@ -61,7 +61,7 @@
   layout: lecture
   selected: y
   date: 2023-11-09
-  img: vectors
+  img: Parsing
   uid: lec4
   title: "Modelling structure: Syntax and semantics"
   instructor: "Wilker Aziz"
@@ -145,7 +145,7 @@
   layout: lecture
   selected: y
   date: 2023-11-28
-  img: srn
+  img: BERT
   uid: lec8
   title: "Large language models"
   instructor: "Ekaterina Shutova"
