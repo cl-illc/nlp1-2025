@@ -73,8 +73,7 @@
   slides: 
   video: 
   further: 
-    - "Chapter 12: [Constituency grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf) in Jurafsky and Martin (3rd edition)."
-    - "Chapter 13: [Constituency parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 17: [Context-Free Grammars and Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/17.pdf) in Jurafsky and Martin (3rd edition)."
   data:  
 -
   layout: lecture
@@ -91,7 +90,7 @@
   discussion:
   slides: 
   further: 
-    - "Chapter 19: [Word Senses and WordNet](https://web.stanford.edu/~jurafsky/slp3/19.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 23: [Word Senses and WordNet](https://web.stanford.edu/~jurafsky/slp3/23.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 6: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
     - "A gentle introduction to neural networks can be found [here](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)"
     - "The following paper provides a nice explanation of skip-gram with negative sampling: Yoav Goldberg and Omer Levy. [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
@@ -136,8 +135,8 @@
   discussion:
   slides: 
   further: 
-    - "Chapter 22: [Coreference resolution](https://web.stanford.edu/~jurafsky/slp3/22.pdf) in Jurafsky and Martin (3rd edition)."
-    - "Chapter 23: [Discourse coherence](https://web.stanford.edu/~jurafsky/slp3/23.pdf) in Jurafsky and Martin (3rd edition)." 
+    - "Chapter 26: [Coreference resolution](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 27: [Discourse coherence](https://web.stanford.edu/~jurafsky/slp3/27.pdf) in Jurafsky and Martin (3rd edition)." 
   video: 
   code: 
   data:  
@@ -232,7 +231,7 @@
   discussion:
   slides: 
   further:
-    - "Chapter 26: [Dialogue systems and chatbots](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 15: [Dialogue systems and chatbots](https://web.stanford.edu/~jurafsky/slp3/15.pdf) in Jurafsky and Martin (3rd edition)."
   video: 
   code: 
   data:    
