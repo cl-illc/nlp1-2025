@@ -12,7 +12,7 @@
   background: 
   discussion:
   slides: resources/slides/NLP1-lecture1.pdf
-  video: 
+  video: https://webcolleges.uva.nl/Mediasite/Play/52298874ca524309bf604c3184fa91001d
   further: 
     - "Chapter 4: [Naive Bayes classification and sentiment](https://web.stanford.edu/~jurafsky/slp3/4.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
