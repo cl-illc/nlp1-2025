@@ -29,7 +29,8 @@
   abstract: >
     "In this lecture, we will discuss language models, i.e. modelling word sequences, using statistical techniques."
   background: >
-    "It can be useful to learn a little bit about directed graphical models and tabular representation of conditional probability distributions. Check this [video](https://www.youtube.com/watch?v=9lmFfhzpWag) and [slides](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa29uMS0tU2xqWk04NzEwVzJ2Ukc0Wm1CRTBSQXxBQ3Jtc0tuSkZxcmdGQmcwenpMeU5lZVVUbXJKVXZtUEVORmw1R0FEV1dIZ09la2Q5bWRhUllsM25KeHJwSkJrNnhncWIzcnZ1ci1qMWo3UUVTOXdCeWVISFk5Y01TaER0RHdIWHF5Z0hiZzRMcDZ5Ml8zRTJkMA&q=https%3A%2F%2Fwilkeraziz.github.io%2Fassets%2Fpdfs%2Fslides-appendix-PGM.pdf&v=9lmFfhzpWag)"
+    - "Required self-study: [representing and estimating tabular Categorical distributions](https://youtu.be/1vE8zKj0-GI)"
+    - "Optional, but highly recommended: it can be useful to learn a little bit about directed graphical models and tabular representation of conditional probability distributions. Check this [video](https://www.youtube.com/watch?v=9lmFfhzpWag) and [slides](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa29uMS0tU2xqWk04NzEwVzJ2Ukc0Wm1CRTBSQXxBQ3Jtc0tuSkZxcmdGQmcwenpMeU5lZVVUbXJKVXZtUEVORmw1R0FEV1dIZ09la2Q5bWRhUllsM25KeHJwSkJrNnhncWIzcnZ1ci1qMWo3UUVTOXdCeWVISFk5Y01TaER0RHdIWHF5Z0hiZzRMcDZ5Ml8zRTJkMA&q=https%3A%2F%2Fwilkeraziz.github.io%2Fassets%2Fpdfs%2Fslides-appendix-PGM.pdf&v=9lmFfhzpWag)"
   discussion:
   slides: resources/slides/week1-class2-language-modelling.pdf
   video: 
@@ -43,17 +44,16 @@
   date: 2023-11-07
   img: PoS
   uid: lec3
-  title: "Morphology and part-of-speech tagging"
+  title: "Sequence labelling"
   instructor: "Wilker Aziz"
   note: 
   abstract: >
-    "In this lecture, we will discuss morphological processing and part-of-speech tagging."
+    "In this lecture, we will discuss labelling tasks such as part-of-speech tagging, named-entity recognition and semantic role labelling."
   background:
   discussion:
   slides: 
   video:
-  further: 
-    - "Lecture notes on moprphology are available [here](https://cl-illc.github.io/nlp1/resources/slides/Morphology-notes.pdf)"
+  further:     
     - "Chapter 8: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
   data: 
@@ -63,11 +63,11 @@
   date: 2023-11-09
   img: Parsing
   uid: lec4
-  title: "Modelling structure: Syntax and semantics"
+  title: "Modelling syntactic structure"
   instructor: "Wilker Aziz"
   note: 
   abstract: >
-    "In this lecture, we will introduce syntax and discuss algorithms for syntactic and semantic parsing"
+    "In this lecture, we will introduce syntax and discuss algorithms for syntactic parsing"
   background:
   discussion:
   slides: 
