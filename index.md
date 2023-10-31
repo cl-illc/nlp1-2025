@@ -11,7 +11,7 @@ Lab coordinator: [Rochelle Choenni](mailto:r.m.v.k.choenni@uva.nl )
 Senior teaching assistant: [Pieter Pierrot](mailto:p.j.pierrot@uva.nl)
 
 Teaching assistants:
-- [Vera Neplenbroek](mailto:veraneplenbroek@icloud.com)
+- [Vera Neplenbroek](mailto:v.e.neplenbroek@uva.nl)
 - [Alina Leidinger](mailto:a.j.leidinger@uva.nl)
 - [Baohao Liao](mailto:b.liao@uva.nl)
 - [Effy Xue Li](mailto:x.li3@uva.nl)
