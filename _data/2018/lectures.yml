@@ -25,10 +25,10 @@
   uid: lec2
   title: "Language modelling"
   instructor: "Wilker Aziz"
-  note: The slides are a preview of the interactive lecture (using mentimeter)
+  note: The slides are a preview of the interactive lecture (using mentimeter). Do check the background material.
   abstract: >
     "In this lecture, we will discuss language models, i.e. modelling word sequences, using statistical techniques."
-  background: >
+  background: 
     - "Required self-study: [representing and estimating tabular Categorical distributions](https://youtu.be/1vE8zKj0-GI)"
     - "Optional, but highly recommended: it can be useful to learn a little bit about directed graphical models and tabular representation of conditional probability distributions. Check this [video](https://www.youtube.com/watch?v=9lmFfhzpWag) and [slides](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa29uMS0tU2xqWk04NzEwVzJ2Ukc0Wm1CRTBSQXxBQ3Jtc0tuSkZxcmdGQmcwenpMeU5lZVVUbXJKVXZtUEVORmw1R0FEV1dIZ09la2Q5bWRhUllsM25KeHJwSkJrNnhncWIzcnZ1ci1qMWo3UUVTOXdCeWVISFk5Y01TaER0RHdIWHF5Z0hiZzRMcDZ5Ml8zRTJkMA&q=https%3A%2F%2Fwilkeraziz.github.io%2Fassets%2Fpdfs%2Fslides-appendix-PGM.pdf&v=9lmFfhzpWag)"
   discussion:
