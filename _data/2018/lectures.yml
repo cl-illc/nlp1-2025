@@ -50,9 +50,9 @@
   abstract: >
     "In this lecture, we will discuss labelling tasks such as part-of-speech tagging, named-entity recognition and semantic role labelling."
   background:
-    - "Required self-study: representing and estimating logistic Categorical distributions ([part 1/2 theory](https://youtu.be/5oz2vAzAs8k), [part 2/2 example](https://youtu.be/DsflDpm5h-c)"
+    - "Required self-study: representing and estimating logistic Categorical distributions ([part 1/2 theory](https://youtu.be/5oz2vAzAs8k), [part 2/2 example](https://youtu.be/DsflDpm5h-c))"
   discussion:
-  slides: 
+  slides: https://www.mentimeter.com/app/presentation/al1qx6hkfvr1tv5i4m56p9eun464gp7e
   video:
   further:     
     - "Chapter 8: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
