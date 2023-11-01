@@ -50,6 +50,7 @@
   abstract: >
     "In this lecture, we will discuss labelling tasks such as part-of-speech tagging, named-entity recognition and semantic role labelling."
   background:
+    - "Required self-study: representing and estimating logistic Categorical distributions ([part 1/2 theory](https://youtu.be/5oz2vAzAs8k), [part 2/2 example](https://youtu.be/DsflDpm5h-c)"
   discussion:
   slides: 
   video:
