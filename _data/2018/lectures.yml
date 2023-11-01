@@ -56,6 +56,7 @@
   video:
   further:     
     - "Chapter 8: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Play with the [Colab example](https://colab.research.google.com/drive/19LiLszW61-XCvMMdyrQKq8x_hVqEpM_P?usp=sharing) if you like"
   code: 
   data: 
 -
