@@ -31,6 +31,10 @@
 
     <!-- resources -->
 
+    {% if include.lecture.mentimeter %}
+      <a href="{{ include.lecture.mentimeter }}" class="label label-info">Mentimeter</a>
+    {% endif %}
+      
     {% if include.lecture.slides %}
       <a href="{{ include.lecture.slides }}" class="label label-info">Slides</a>
     {% endif %}
