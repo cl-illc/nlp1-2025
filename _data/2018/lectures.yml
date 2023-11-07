@@ -54,7 +54,8 @@
   background:
     - "Required self-study: representing and estimating logistic Categorical distributions ([part 1/2 theory](https://youtu.be/5oz2vAzAs8k), [part 2/2 example](https://youtu.be/DsflDpm5h-c))"
   discussion:
-  slides: https://www.mentimeter.com/app/presentation/al1qx6hkfvr1tv5i4m56p9eun464gp7e
+  mentimeter: https://www.mentimeter.com/app/presentation/al1qx6hkfvr1tv5i4m56p9eun464gp7e
+  slides: resources/slides/week2-class1-sequence-labelling.pdf
   video: https://webcolleges.uva.nl/Mediasite/Play/57c5950233584dca8b48ad2f898382f51d
   further:     
     - "Required self-study: [value recursion to compute mode and marginal probabilities in HMMs](https://youtu.be/rVCd7NrGcSI)"
