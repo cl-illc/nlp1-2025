@@ -77,7 +77,7 @@
   background:
   discussion:
   slides: 
-  video: 
+  video: https://webcolleges.uva.nl/Mediasite/Play/4e84d0f722a04bb080971bf82238612a1d
   further: 
     - "Chapter 17: [Context-Free Grammars and Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/17.pdf) in Jurafsky and Martin (3rd edition)."
   data:  
