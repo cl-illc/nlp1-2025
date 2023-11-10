@@ -77,12 +77,13 @@
   background:
   discussion:
   mentimeter: https://www.mentimeter.com/app/presentation/alsr7vix3mkegb888cpzsmi1rttjekdb
-  slides: 
+  slides: resources/slides/week2-class2-syntactic-structure.pdf
   video: https://webcolleges.uva.nl/Mediasite/Play/4e84d0f722a04bb080971bf82238612a1d
   code: https://colab.research.google.com/drive/11UGhml-TKGh10eKDF5y5-ZSHzwSNvvfF?usp=sharing
   further: 
     - "Required [Section 17.6](https://web.stanford.edu/~jurafsky/slp3/17.pdf) of textbook."
-    - "Chapter 17: [Context-Free Grammars and Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/17.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Recommended: check this video on [dynamic programming algorithms for PCFGs](https://youtu.be/jM0x_YMmEMM)."
+    - "Chapter 17: [Context-Free Grammars and Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/17.pdf) in Jurafsky and Martin (3rd edition)."    
   data:  
 -
   layout: lecture
