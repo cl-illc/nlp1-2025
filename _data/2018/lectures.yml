@@ -82,6 +82,7 @@
   code: https://colab.research.google.com/drive/11UGhml-TKGh10eKDF5y5-ZSHzwSNvvfF?usp=sharing
   further: 
     - "Required [Section 17.6](https://web.stanford.edu/~jurafsky/slp3/17.pdf) of textbook."
+    - "Required [Appendix C - statistical constituency parsing](https://web.stanford.edu/~jurafsky/slp3/C.pdf)"
     - "Recommended: check this video on [dynamic programming algorithms for PCFGs](https://youtu.be/jM0x_YMmEMM)."
     - "Chapter 17: [Context-Free Grammars and Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/17.pdf) in Jurafsky and Martin (3rd edition)."    
   data:  
