@@ -38,6 +38,7 @@
   further: 
     - "Required - Section 3.2 (evaluation LMs) from [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
     - "Optional - Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."    
+    - "Optional (but recommended) - How to sample from a Categorical distribution: [video](https://youtu.be/49a378GuMXM?si=exGGZnbiNpyrby3W) or [section 3.3 of textbook](https://web.stanford.edu/~jurafsky/slp3/3.pdf) "
   code: 
   data:  
 -
