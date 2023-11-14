@@ -100,13 +100,13 @@
     "In this lecture, we will introduce statistical models of word meaning, discuss generalisation from words to semantic classes and learning dense vector representations - word embeddings."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lexical-semantics.pdf
   further: 
     - "Chapter 23: [Word Senses and WordNet](https://web.stanford.edu/~jurafsky/slp3/23.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 6: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
     - "A gentle introduction to neural networks can be found [here](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)"
     - "The following paper provides a nice explanation of skip-gram with negative sampling: Yoav Goldberg and Omer Levy. [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
-  video: https://webcolleges.uva.nl/Mediasite/Play/39663943957f4def84bba650fa02e7c61d
+  video: 
   code: 
   data:    
 -
