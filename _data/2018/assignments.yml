@@ -23,7 +23,7 @@
   abstract: 
   background:
   discussion:
-  instructions: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html
+  instructions: https://colab.research.google.com/drive/101rgxgNokVMzcjjAp7EkAnbwc3wexd8B?usp=sharing
   data:
   code:
 -
