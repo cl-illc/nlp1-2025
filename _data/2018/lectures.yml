@@ -150,7 +150,7 @@
   further: 
     - "Chapter 26: [Coreference resolution](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 27: [Discourse coherence](https://web.stanford.edu/~jurafsky/slp3/27.pdf) in Jurafsky and Martin (3rd edition)." 
-  video: 
+  video: https://webcolleges.uva.nl/Mediasite/Play/d2ac6a6cee8a47958d7e1bf23483eb5f1d
   code: 
   data:  
 -
