@@ -166,7 +166,7 @@
     "In this session, we will discuss large language models, their pretraining strategies, their architectures and their applications."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture8-LLMs.pdf
   further:
   video: 
   code: 
