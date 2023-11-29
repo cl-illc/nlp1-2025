@@ -168,7 +168,9 @@
   discussion:
   slides: resources/slides/NLP1-lecture8-LLMs.pdf
   further:
-  video: 
+    - "The slides list a number of papers that constitute the further reading material for this lecture."
+    - "The ["Illustrated Transformer" blog](http://jalammar.github.io/illustrated-transformer/) provides a very nice introduction to the Transformer architecture."
+  video: https://webcolleges.uva.nl/Mediasite/Play/189478b61d49413aa6091e09506fd8a51d
   code: 
   data:  
 -
