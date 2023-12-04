@@ -197,18 +197,18 @@
   date: 2023-12-05
   img: Summarization
   uid: lec10
-  title: "Language generation and summarisation"
+  title: "Sequence modelling"
   instructor: "Wilker Aziz"
   note: 
   abstract: >
-    "In this lecture, we will talk about language generation and cover a particular language generation task, text summarisation, in more detail."
+    "In this lecture, we will talk about neural models of sequential data. Examples will include sequence labelling, machine translation (at a very introductory level; for much more, we will have an entire class dedicated to MT) and text summarisation."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-2023-sequence-modelling.pdf
   further: 
-    - "A survey of recent summarisation techniques is available [here](https://arxiv.org/pdf/1804.04589.pdf)"
     - "An introduction to sequence-to-sequence models: [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
-  video: 
+    - "A survey of recent summarisation techniques is available [here](https://arxiv.org/pdf/1804.04589.pdf)"
+  video: https://webcolleges.uva.nl/Mediasite/Play/cf47a94013a7466db4b7924afdaef59c1d
   code: 
   data:  
 -
