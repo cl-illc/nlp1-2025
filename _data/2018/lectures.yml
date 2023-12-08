@@ -224,11 +224,11 @@
     "We will discuss the fundamentals of machine translation, including word-based / alignment models and phrase-based SMT"
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-2023-MT.pdf
   further: 
     - "[Neural Encoder-Decoder](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
     - "[The Annotated Encoder-Decoder blog post](https://bastings.github.io/annotated_encoder_decoder/)"
-  video: 
+  video: https://webcolleges.uva.nl/Mediasite/Play/1b9ff179a83f4d07aa1727ef9d30b4c81d
   code: 
   data:  
 -
