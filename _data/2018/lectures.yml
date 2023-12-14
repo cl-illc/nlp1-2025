@@ -263,7 +263,8 @@
     "In this lecture, we will give you a brief summary of the course and how different areas we have studied interface. We will also discuss what to expect at the exam."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1_2023_Summary_lecture.pdf
+  video: https://webcolleges.uva.nl/Mediasite/Play/c5a6bb41ea114223b8d758031b5ed6741d
   further:
   video: 
   code: 
