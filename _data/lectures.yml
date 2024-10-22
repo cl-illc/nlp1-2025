@@ -21,7 +21,7 @@
   layout: lecture
   selected: y
   date: 2024-10-31
-  img: PoS
+  img: NGramLM-bayesnet
   uid: lec2
   title: "Language modelling"
   instructor: "Wilker Aziz"
