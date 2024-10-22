@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2023-10-31
+  date: 2024-10-29
   img: introduction-icon_1-267x300
   uid: intro
   title: "Introduction"
@@ -12,7 +12,7 @@
   background: 
   discussion:
   slides: resources/slides/NLP1-lecture1.pdf
-  video: https://webcolleges.uva.nl/Mediasite/Play/52298874ca524309bf604c3184fa91001d
+  video: 
   further: 
     - "Chapter 4: [Naive Bayes classification and sentiment](https://web.stanford.edu/~jurafsky/slp3/4.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
@@ -20,7 +20,7 @@
 -
   layout: lecture
   selected: y
-  date: 2023-11-02
+  date: 2024-10-31
   img: PoS
   uid: lec2
   title: "Language modelling"
@@ -32,9 +32,9 @@
     - "Required self-study: [representing and estimating tabular Categorical distributions](https://youtu.be/1vE8zKj0-GI)"
     - "Optional, but highly recommended: it can be useful to learn a little bit about directed graphical models and tabular representation of conditional probability distributions. Check this [video](https://www.youtube.com/watch?v=9lmFfhzpWag) and [slides](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa29uMS0tU2xqWk04NzEwVzJ2Ukc0Wm1CRTBSQXxBQ3Jtc0tuSkZxcmdGQmcwenpMeU5lZVVUbXJKVXZtUEVORmw1R0FEV1dIZ09la2Q5bWRhUllsM25KeHJwSkJrNnhncWIzcnZ1ci1qMWo3UUVTOXdCeWVISFk5Y01TaER0RHdIWHF5Z0hiZzRMcDZ5Ml8zRTJkMA&q=https%3A%2F%2Fwilkeraziz.github.io%2Fassets%2Fpdfs%2Fslides-appendix-PGM.pdf&v=9lmFfhzpWag)"
   discussion:
-  mentimeter: https://www.mentimeter.com/app/presentation/al4nftjihrk57azxapi8fssc8p9tsn18
+  mentimeter: 
   slides: resources/slides/week1-class2-language-modelling.pdf
-  video: https://webcolleges.uva.nl/Mediasite/Play/299c2ed3b92f4a6184979bac1abed2001d
+  video: 
   further: 
     - "Required - Section 3.2 (evaluation LMs) from [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
     - "Optional - Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."    
@@ -44,7 +44,7 @@
 -
   layout: lecture
   selected: y
-  date: 2023-11-07
+  date: 2024-11-05
   img: PoS
   uid: lec3
   title: "Sequence labelling"
@@ -55,9 +55,9 @@
   background:
     - "Required self-study: representing and estimating logistic Categorical distributions ([part 1/2 theory](https://youtu.be/5oz2vAzAs8k), [part 2/2 example](https://youtu.be/DsflDpm5h-c))"
   discussion:
-  mentimeter: https://www.mentimeter.com/app/presentation/al1qx6hkfvr1tv5i4m56p9eun464gp7e
+  mentimeter: 
   slides: resources/slides/week2-class1-sequence-labelling.pdf
-  video: https://webcolleges.uva.nl/Mediasite/Play/57c5950233584dca8b48ad2f898382f51d
+  video: 
   further:     
     - "Required self-study: [value recursion to compute mode and marginal probabilities in HMMs](https://youtu.be/rVCd7NrGcSI)"
     - "Play with the [Colab example](https://colab.research.google.com/drive/19LiLszW61-XCvMMdyrQKq8x_hVqEpM_P?usp=sharing) if you like"
@@ -67,7 +67,7 @@
 -
   layout: lecture
   selected: y
-  date: 2023-11-09
+  date: 2024-11-07
   img: Parsing
   uid: lec4
   title: "Modelling syntactic structure"
@@ -77,9 +77,9 @@
     "In this lecture, we will introduce syntax and ideas to model it."
   background:
   discussion:
-  mentimeter: https://www.mentimeter.com/app/presentation/alsr7vix3mkegb888cpzsmi1rttjekdb
+  mentimeter: 
   slides: resources/slides/week2-class2-syntactic-structure.pdf
-  video: https://webcolleges.uva.nl/Mediasite/Play/4e84d0f722a04bb080971bf82238612a1d
+  video: 
   code: https://colab.research.google.com/drive/11UGhml-TKGh10eKDF5y5-ZSHzwSNvvfF?usp=sharing
   further: 
     - "Required [Section 17.6](https://web.stanford.edu/~jurafsky/slp3/17.pdf) of textbook."
@@ -90,7 +90,7 @@
 -
   layout: lecture
   selected: y
-  date: 2023-11-14
+  date: 2024-11-12
   img: skip-gram
   uid: lec5
   title: "Lexical semantics and word embeddings"
@@ -107,17 +107,17 @@
     - "A gentle introduction to neural networks can be found [here](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)"
     - "The following paper provides a nice explanation of skip-gram with negative sampling: Yoav Goldberg and Omer Levy. [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
     - "[This paper](https://aclanthology.org/P14-2050.pdf) experiments with using syntactic dependency-based contexts to train the skip-gram model and provides some analysis on what kind of information the context vectors encode."
-  video: https://webcolleges.uva.nl/Mediasite/Play/39663943957f4def84bba650fa02e7c61d
+  video: 
   code: 
   data:    
 -
   layout: lecture
   selected: y
-  date: 2023-11-16
+  date: 2024-11-14
   img: srn
   uid: lec6
   title: "Compositional semantics and sentence representations"
-  instructor: "Rochelle Choenni"
+  instructor: "Verna Neplenbroek"
   note: 
   abstract: >
     "In this lecture, we will discuss compositional semantics, i.e. modelling the meaning of phrases and sentences, and learning neural representations of sentences."
@@ -130,13 +130,13 @@
     - "A good and general reference for Neural Networks in NLP: Yoav Goldberg. [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726)"
     - "A gentle introduction to LSTMs is available [here](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)"
     - "This is one of the papers that have introduced tree LSTM models: Kai Sheng Tai, Richard Socher, and Christopher D. Manning. [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://aclweb.org/anthology/P/P15/P15-1150.pdf)" 
-  video: https://webcolleges.uva.nl/Mediasite/Play/8411210876a74e53aef85201523372e11d
+  video: 
   code: 
   data:    
 -
   layout: lecture
   selected: y
-  date: 2023-11-21
+  date: 2024-11-19
   img: Discourse
   uid: lec7
   title: "Discourse processing"
@@ -156,7 +156,7 @@
 -
   layout: lecture
   selected: y
-  date: 2023-11-28
+  date: 2024-11-26
   img: BERT
   uid: lec8
   title: "Large language models"
@@ -170,17 +170,17 @@
   further:
     - "The slides list a number of papers that constitute the further reading material for this lecture."
     - "The [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) blog provides a very nice introduction to the Transformer architecture."
-  video: https://webcolleges.uva.nl/Mediasite/Play/189478b61d49413aa6091e09506fd8a51d
+  video: 
   code: 
   data:  
 -
   layout: lecture
   selected: y
-  date: 2023-11-30
+  date: 2024-11-28
   img: Twitter
   uid: lec9
   title: "Interpretability of NLP models"
-  instructor: "Jaap Jumelet"
+  instructor: "Michael Hanna"
   note: 
   abstract: >
     "We will discuss techniques that allow us to better understand what kind of information neural language models encode and how they do it."
@@ -188,16 +188,16 @@
   discussion:
   slides: resources/slides/NLP1-Lecture-Interpretability.pdf
   further: 
-  video: https://webcolleges.uva.nl/Mediasite/Play/cbf81c4f595b460dbde9cfc7c487aef51d
+  video: 
   code: 
   data:  
 -
   layout: lecture
   selected: y
-  date: 2023-12-05
+  date: 2024-12-03
   img: Summarization
   uid: lec10
-  title: "Sequence modelling"
+  title: "Language generation and summarisation"
   instructor: "Wilker Aziz"
   note: 
   abstract: >
@@ -208,37 +208,17 @@
   further: 
     - "An introduction to sequence-to-sequence models: [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
     - "A survey of recent summarisation techniques is available [here](https://arxiv.org/pdf/1804.04589.pdf)"
-  video: https://webcolleges.uva.nl/Mediasite/Play/cf47a94013a7466db4b7924afdaef59c1d
+  video: 
   code: 
   data:  
 -
   layout: lecture
   selected: y
-  date: 2023-12-07
-  img: MT
-  uid: lec11
-  title: "Machine translation"
-  instructor: "Christof Monz"
-  note: 
-  abstract: >
-    "We will discuss the fundamentals of machine translation, including word-based / alignment models and phrase-based SMT"
-  background:
-  discussion:
-  slides: resources/slides/NLP1-2023-MT.pdf
-  further: 
-    - "[Neural Encoder-Decoder](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
-    - "[The Annotated Encoder-Decoder blog post](https://bastings.github.io/annotated_encoder_decoder/)"
-  video: https://webcolleges.uva.nl/Mediasite/Play/1b9ff179a83f4d07aa1727ef9d30b4c81d
-  code: 
-  data:  
--
-  layout: lecture
-  selected: y
-  date: 2023-12-12
+  date: 2024-12-05
   img: dialogue
   uid: lec12
   title: "Dialogue modelling"
-  instructor: "Alberto Testoni and Esam Ghaleb"
+  instructor: "Raquel Fernandez"
   note: 
   abstract: >
     "In this lecture, we will introduce an important NLP application -- dialogue modelling."
@@ -253,7 +233,27 @@
 -
   layout: lecture
   selected: y
-  date: 2023-12-14
+  date: 2024-12-10
+  img: MT
+  uid: lec11
+  title: "Machine translation"
+  instructor: "Christof Monz"
+  note: 
+  abstract: >
+    "We will discuss the fundamentals of machine translation, including word-based / alignment models and phrase-based SMT"
+  background:
+  discussion:
+  slides: resources/slides/NLP1-2023-MT.pdf
+  further: 
+    - "[Neural Encoder-Decoder](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
+    - "[The Annotated Encoder-Decoder blog post](https://bastings.github.io/annotated_encoder_decoder/)"
+  video: 
+  code: 
+  data:  
+-
+  layout: lecture
+  selected: y
+  date: 2023-12-12
   img: Live-1
   uid: lec-final
   title: "Summary of the course and Q&A"
@@ -264,7 +264,7 @@
   background:
   discussion:
   slides: resources/slides/NLP1_2023_Summary_lecture.pdf
-  video: https://webcolleges.uva.nl/Mediasite/Play/c5a6bb41ea114223b8d758031b5ed6741d
+  video: 
   further:
   code: 
   data:   

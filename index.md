@@ -6,25 +6,22 @@ This is the page of the course *Natural Language Processing 1* offered at the [U
 
 Course coordinators: [Ekaterina Shutova](https://www.shutova.org/) and [Wilker Aziz](https://wilkeraziz.github.io/)
 
-Lab coordinator: [Rochelle Choenni](mailto:r.m.v.k.choenni@uva.nl )
+Lab coordinator: [Vera Neplenbroek](mailto:v.e.neplenbroek@uva.nl)
 
 Senior teaching assistant: [Pieter Pierrot](mailto:p.j.pierrot@uva.nl)
 
 Teaching assistants:
-- [Vera Neplenbroek](mailto:v.e.neplenbroek@uva.nl)
-- [Alina Leidinger](mailto:a.j.leidinger@uva.nl)
+- [Adrian Sauter](mailto:adrian.a.sauter@student.uva.nl)
 - [Baohao Liao](mailto:b.liao@uva.nl)
-- [Effy Xue Li](mailto:x.li3@uva.nl)
-- [Eric Zila](mailto:zila.eric@gmail.com)
+- [Charlotte Pouw](mailto:c.m.pouw@uva.nl)
 - [Evgenia Ilia](mailto:e.ilia@uva.nl)
-- [Joris Baan](mailto:j.s.baan@uva.nl)
-- [Kieron Kretschmar](mailto:kieron.kretschmar@outlook.com)
-- [Marta Grasa](mailto:mgrasala@gmail.com)
-- [Maya Nachesa](mailto:m.k.nachesa@uva.nl)
+- [Ivo Verhoeven](mailto:i.o.verhoeven2@uva.nl)
+- [John Gkountouras](mailto:i.gkountouras@uva.nl)
+- [Milan Miletic](mailto:milan.miletic@student.uva.nl)
+- [Mina Janićijević](mailto:mina.janicijevic@student.uva.nl)
 - [Pedro Ferreira](mailto:p.m.ferreira@uva.nl)
-- [Shaomu Tan](mailto:s.tan@uva.nl)
+- [Seth Aycock](mailto:s.aycock@uva.nl)
 - [Wafaa Mohammed](mailto:w.m.a.mohammed@uva.nl)
-
 
 ## Course registration
 
@@ -49,6 +46,7 @@ The lectures will cover the following topics:
 - Language generation and summarization
 - Machine translation
 - Interpretability of NLP models
+- Large language models (aka foundation models)
 
 
 An important component of the course is a hands-on practical, in which the students will have the opportunity to implement a number of language processing methods and perform experiments on a real-world task: sentiment analysis of movie reviews. The hands-on-practical consists of two parts and will be completed in teams of two. You can find the link to the team registration form on the Canvas home page of this course.
@@ -66,10 +64,14 @@ The third edition of the book is currently in preparation and some of the chapte
 - practical 2 (group work) 30%
 - pen-and-paper exercises 20%
 
+
+
 ## Deadlines
 
-- Practical 1: 15 November
-- Practical 2 & report: 15 December
-- Exercises: 16 November, 23 November, 7 December 
-- Exam: 19 December
+Practical assignments are handled on Canvas, check there for accurate deadlines. Pen-and-paper exercises are handled on ANS, check there for accurate deadlines. For the exam, always check and trust the information on Datanose. With this disclaimer, the deadlines (as known at the beginning of the course) are listed below:
+
+- Practical 1: Nov 13
+- Practical 2 and report: Dec 13 
+- Exercises: TBA, TBA, TBA 
+- Exam: 17 December
 

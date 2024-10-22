@@ -8,7 +8,7 @@ menu: yes
 
 # Lectures
 
-{% assign lectures = (site.data.2018.lectures | where: "selected", "y") %}
+{% assign lectures = (site.data.lectures | where: "selected", "y") %}
 {% for lecture in lectures %}
 {% include lecture.html lecture=lecture %}
 {% endfor %}

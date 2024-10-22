@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2023-10-26
+  date: 2024-11-13
   img: prac
   uid: practical1
   title: "Practical I"
@@ -9,13 +9,13 @@
   abstract: 
   background:
   discussion:
-  instructions: https://colab.research.google.com/drive/1BJVOFqiw5V6GK9oHt9R3GFVRFWtP5DXa?usp=sharing
+  instructions: 
   data:
   code:
 -
   layout: lecture
-  selected: y
-  date: 2023-10-27
+  selected: n
+  date: TBA
   img: prac
   uid: intropytorch
   title: "Introduction to PyTorch"
@@ -23,13 +23,13 @@
   abstract: 
   background:
   discussion:
-  instructions: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html
+  instructions: 
   data:
   code:
 -
   layout: lecture
   selected: y
-  date: 2023-11-16
+  date: 2024-12-13
   img: prac
   uid: practical2
   title: "Practical II"
@@ -37,7 +37,7 @@
   abstract:
   background:
   discussion:
-  instructions: https://colab.research.google.com/drive/1wL5tBRe_P11u_U_ZgBq3eDOQ3p3SuLSo?usp=sharing
+  instructions: 
   data: assessment.html
   code:
 
