@@ -64,8 +64,6 @@ The third edition of the book is currently in preparation and some of the chapte
 - practical 2 (group work) 30%
 - pen-and-paper exercises 20%
 
-
-
 ## Deadlines
 
 Practical assignments are handled on Canvas, check there for accurate deadlines. Pen-and-paper exercises are handled on ANS, check there for accurate deadlines. For the exam, always check and trust the information on Datanose. With this disclaimer, the deadlines (as known at the beginning of the course) are listed below:
