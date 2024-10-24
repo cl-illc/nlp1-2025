@@ -1,6 +1,6 @@
 -
   layout: lecture
-  selected: y
+  selected: n
   date: 2024-11-13
   img: prac
   uid: practical1
@@ -9,13 +9,13 @@
   abstract: 
   background:
   discussion:
-  instructions: 
+  instructions: https://drive.google.com/file/d/1NrO7jml63qz0CVfSDUVEjNlGyed2a8f0/view?usp=sharing
   data:
   code:
 -
   layout: lecture
   selected: n
-  date: TBA
+  date: 2024-11-15
   img: prac
   uid: intropytorch
   title: "Introduction to PyTorch"
@@ -23,12 +23,12 @@
   abstract: 
   background:
   discussion:
-  instructions: 
+  instructions: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html
   data:
   code:
 -
   layout: lecture
-  selected: y
+  selected: n
   date: 2024-12-13
   img: prac
   uid: practical2
@@ -37,7 +37,7 @@
   abstract:
   background:
   discussion:
-  instructions: 
+  instructions: https://drive.google.com/file/d/17tE4nWQzyrSQVDE77jl7G3NAdV407CT2/view?usp=sharing
   data: assessment.html
   code:
 
