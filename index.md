@@ -70,6 +70,6 @@ Practical assignments are handled on Canvas, check there for accurate deadlines.
 
 - Practical 1: Nov 13
 - Practical 2 and report: Dec 13 
-- Exercises: TBA, TBA, TBA 
+- Exercises: 14 November, 21 November, 5 December
 - Exam: 17 December
 
