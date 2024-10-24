@@ -55,7 +55,7 @@ General Tips:
 
 
 An ideal report:
-- Precise, scientific-sounding, technical, to the point 
+- Precise, scientific, technical, to the point 
   - Little general “waffle”/chit-chat
 - Not boring – because you don’t explain obvious things too much
 - Efficient delivery of (only) the facts that we need to know to understand/reimplement
