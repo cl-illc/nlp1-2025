@@ -61,7 +61,7 @@
   further:     
     - "Required self-study: [value recursion to compute mode and marginal probabilities in HMMs](https://youtu.be/rVCd7NrGcSI)"
     - "Play with the [Colab example](https://colab.research.google.com/drive/19LiLszW61-XCvMMdyrQKq8x_hVqEpM_P?usp=sharing) if you like"
-    - "Chapter 8: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 17.2: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/17.pdf) in Jurafsky and Martin (3rd edition)."
   code: https://colab.research.google.com/drive/19LiLszW61-XCvMMdyrQKq8x_hVqEpM_P?usp=sharing
   data: 
 -
@@ -85,7 +85,7 @@
     - "Required [Section 17.6](https://web.stanford.edu/~jurafsky/slp3/17.pdf) of textbook."
     - "Required [Appendix C - statistical constituency parsing](https://web.stanford.edu/~jurafsky/slp3/C.pdf)"
     - "Recommended: check this video on [dynamic programming algorithms for PCFGs](https://youtu.be/jM0x_YMmEMM)."
-    - "Chapter 17: [Context-Free Grammars and Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/17.pdf) in Jurafsky and Martin (3rd edition)."    
+    - "Chapter 18: [Context-Free Grammars and Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/18.pdf) in Jurafsky and Martin (3rd edition)."    
   data:  
 -
   layout: lecture
@@ -102,7 +102,7 @@
   discussion:
   slides: 
   further: 
-    - "Chapter 23: [Word Senses and WordNet](https://web.stanford.edu/~jurafsky/slp3/23.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter G: [Word Senses and WordNet](https://web.stanford.edu/~jurafsky/slp3/G.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 6: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
     - "A gentle introduction to neural networks can be found [here](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)"
     - "The following paper provides a nice explanation of skip-gram with negative sampling: Yoav Goldberg and Omer Levy. [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
@@ -117,7 +117,7 @@
   img: srn
   uid: lec6
   title: "Compositional semantics and sentence representations"
-  instructor: "Verna Neplenbroek"
+  instructor: "Vera Neplenbroek"
   note: 
   abstract: >
     "In this lecture, we will discuss compositional semantics, i.e. modelling the meaning of phrases and sentences, and learning neural representations of sentences."
@@ -126,7 +126,7 @@
   slides: 
   further: 
     - "Chapter 7: [Neural networks and neural language models](https://web.stanford.edu/~jurafsky/slp3/7.pdf) in Jurafsky and Martin (3rd edition)."
-    - "Chapter 9: [Sequence processing with recurrent neural networks](https://web.stanford.edu/~jurafsky/slp3/9.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 8: [RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
     - "A good and general reference for Neural Networks in NLP: Yoav Goldberg. [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726)"
     - "A gentle introduction to LSTMs is available [here](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)"
     - "This is one of the papers that have introduced tree LSTM models: Kai Sheng Tai, Richard Socher, and Christopher D. Manning. [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://aclweb.org/anthology/P/P15/P15-1150.pdf)" 
@@ -148,8 +148,8 @@
   discussion:
   slides: 
   further: 
-    - "Chapter 26: [Coreference resolution](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
-    - "Chapter 27: [Discourse coherence](https://web.stanford.edu/~jurafsky/slp3/27.pdf) in Jurafsky and Martin (3rd edition)." 
+    - "Chapter 23: [Coreference Resolution and Entity Linking](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 24: [Discourse coherence](https://web.stanford.edu/~jurafsky/slp3/24.pdf) in Jurafsky and Martin (3rd edition)." 
   video: 
   code: 
   data:  
@@ -226,7 +226,7 @@
   discussion:
   slides: 
   further:
-    - "Chapter 15: [Dialogue systems and chatbots](https://web.stanford.edu/~jurafsky/slp3/15.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 15: [Chatbots & Dialogue Systems](https://web.stanford.edu/~jurafsky/slp3/15.pdf) in Jurafsky and Martin (3rd edition)."
   video: 
   code: 
   data:    
