@@ -68,8 +68,8 @@ The third edition of the book is currently in preparation and some of the chapte
 
 Practical assignments are handled on Canvas, check there for accurate deadlines. Pen-and-paper exercises are handled on ANS, check there for accurate deadlines. For the exam, always check and trust the information on Datanose. With this disclaimer, the deadlines (as known at the beginning of the course) are listed below:
 
-- Practical 1: Nov 13
-- Practical 2 and report: Dec 13 
+- Practical 1: 13 November
+- Practical 2 and report: 13 December
 - Exercises: 14 November, 21 November, 5 December
 - Exam: 17 December
 
