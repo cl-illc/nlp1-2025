@@ -5,13 +5,13 @@
   img: introduction-icon_1-267x300
   uid: intro
   title: "Introduction"
-  instructor: "Ekaterina Shutova"
+  instructor: "Ekaterina Shutova and Wilker Aziz"
   note: 
   abstract: >
     "Introduction to the course"
   background: 
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-2024-introduction.pdf
   video: 
   further: 
     - "Chapter 4: [Naive Bayes classification and sentiment](https://web.stanford.edu/~jurafsky/slp3/4.pdf) in Jurafsky and Martin (3rd edition)."
