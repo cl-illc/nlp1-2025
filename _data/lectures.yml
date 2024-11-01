@@ -195,19 +195,17 @@
   layout: lecture
   selected: y
   date: 2024-12-03
-  img: Summarization
+  img: MT
   uid: lec10
-  title: "Language generation and summarisation"
-  instructor: "Wilker Aziz"
+  title: "LLM safety and alignment"
+  instructor: "Guest lecture by Pushkar Mishra (DeepMind)"
   note: 
   abstract: >
-    "In this lecture, we will talk about neural models of sequential data. Examples will include sequence labelling, machine translation (at a very introductory level; for much more, we will have an entire class dedicated to MT) and text summarisation."
+    "We will discuss techniques for making LLM outputs safe, including safety fine-tuning and alignment to human preferences."
   background:
   discussion:
   slides: 
   further: 
-    - "An introduction to sequence-to-sequence models: [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
-    - "A survey of recent summarisation techniques is available [here](https://arxiv.org/pdf/1804.04589.pdf)"
   video: 
   code: 
   data:  
@@ -216,7 +214,7 @@
   selected: y
   date: 2024-12-05
   img: dialogue
-  uid: lec12
+  uid: lec11
   title: "Dialogue modelling"
   instructor: "Raquel Fernandez"
   note: 
@@ -233,20 +231,20 @@
 -
   layout: lecture
   selected: y
-  date: 2024-12-10
-  img: MT
-  uid: lec11
-  title: "Machine translation"
-  instructor: "Christof Monz"
+  date: 2024-12-03
+  img: Summarization
+  uid: lec12
+  title: "Language generation and summarisation"
+  instructor: "Wilker Aziz"
   note: 
   abstract: >
-    "We will discuss the fundamentals of machine translation, including word-based / alignment models and phrase-based SMT"
+    "In this lecture, we will talk about neural models of sequential data. Examples will include sequence labelling, machine translation and text summarisation."
   background:
   discussion:
   slides: 
   further: 
-    - "[Neural Encoder-Decoder](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
-    - "[The Annotated Encoder-Decoder blog post](https://bastings.github.io/annotated_encoder_decoder/)"
+    - "An introduction to sequence-to-sequence models: [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
+    - "A survey of recent summarisation techniques is available [here](https://arxiv.org/pdf/1804.04589.pdf)"
   video: 
   code: 
   data:  
