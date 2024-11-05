@@ -57,7 +57,7 @@
   discussion:
   mentimeter: 
   slides: resources/slides/NLP1-2024-sequence-labelling.pdf
-  video: 
+  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1931cb98-dfff-4ae3-aa11-b21300906689 
   further:     
     - "Required self-study: [value recursion for HMMs](https://youtu.be/rVCd7NrGcSI)"
     - "Play with the [Colab example](https://colab.research.google.com/drive/19LiLszW61-XCvMMdyrQKq8x_hVqEpM_P?usp=sharing) if you like"
