@@ -79,7 +79,7 @@
   discussion:
   mentimeter: 
   slides: resources/slides/NLP1-2024-syntax-morphology.pdf 
-  video: 
+  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1388f80a-a124-4af9-ad68-b21300906b9d
   code: https://colab.research.google.com/drive/11UGhml-TKGh10eKDF5y5-ZSHzwSNvvfF?usp=sharing
   further: 
     - "Required: [Katia's class on morphology (first 43 minutes of the video)](https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ddcd1207-fdfd-4af1-8f09-b153005e380a&start=172.733)"
