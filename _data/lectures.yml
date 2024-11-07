@@ -78,14 +78,14 @@
   background:
   discussion:
   mentimeter: 
-  slides: 
+  slides: resources/slides/NLP1-2024-syntax-morphology.pdf 
   video: 
   code: https://colab.research.google.com/drive/11UGhml-TKGh10eKDF5y5-ZSHzwSNvvfF?usp=sharing
   further: 
-    - "Required [Section 17.6](https://web.stanford.edu/~jurafsky/slp3/17.pdf) of textbook."
-    - "Required [Appendix C - statistical constituency parsing](https://web.stanford.edu/~jurafsky/slp3/C.pdf)"
-    - "Recommended: check this video on [dynamic programming algorithms for PCFGs](https://youtu.be/jM0x_YMmEMM)."
-    - "Chapter 18: [Context-Free Grammars and Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/18.pdf) in Jurafsky and Martin (3rd edition)."    
+    - "Required: [Katia's class on morphology (first 43 minutes of the video)](https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ddcd1207-fdfd-4af1-8f09-b153005e380a&start=172.733)"
+    - "Required: check this video on [dynamic programming algorithms for PCFGs](https://youtu.be/jM0x_YMmEMM)."
+    - "Recommended [Section 18.6](https://web.stanford.edu/~jurafsky/slp3/18.pdf) of textbook."
+    - "Recommended [Appendix C - statistical constituency parsing](https://web.stanford.edu/~jurafsky/slp3/C.pdf)"
   data:  
 -
   layout: lecture
