@@ -107,7 +107,7 @@
     - "A gentle introduction to neural networks can be found [here](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)"
     - "The following paper provides a nice explanation of skip-gram with negative sampling: Yoav Goldberg and Omer Levy. [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
     - "[This paper](https://aclanthology.org/P14-2050.pdf) experiments with using syntactic dependency-based contexts to train the skip-gram model and provides some analysis on what kind of information the context vectors encode."
-  video: 
+  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=050e1289-a29f-4b7a-a1dd-b2130090714f&start=432.230037
   code: 
   data:    
 -
