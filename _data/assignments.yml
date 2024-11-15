@@ -14,7 +14,7 @@
   code:
 -
   layout: lecture
-  selected: n
+  selected: y
   date: 2024-11-15
   img: prac
   uid: intropytorch
@@ -28,7 +28,7 @@
   code:
 -
   layout: lecture
-  selected: n
+  selected: y
   date: 2024-12-13
   img: prac
   uid: practical2
