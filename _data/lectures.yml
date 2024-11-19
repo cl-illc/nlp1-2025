@@ -146,7 +146,7 @@
     "In this lecture, we will discuss discourse processing, i.e. modelling larger text fragments."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-discourse.pdf
   further: 
     - "Chapter 23: [Coreference Resolution and Entity Linking](https://web.stanford.edu/~jurafsky/slp3/23.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 24: [Discourse coherence](https://web.stanford.edu/~jurafsky/slp3/24.pdf) in Jurafsky and Martin (3rd edition)." 
