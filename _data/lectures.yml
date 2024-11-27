@@ -170,7 +170,7 @@
   further:
     - "The slides list a number of papers that constitute the further reading material for this lecture."
     - "The [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) blog provides a very nice introduction to the Transformer architecture."
-  video: 
+  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ae0cccb9-7738-4388-85d0-b21300908307&start=246.417569
   code: 
   data:  
 -
