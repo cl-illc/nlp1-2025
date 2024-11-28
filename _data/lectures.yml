@@ -186,7 +186,7 @@
     "We will discuss techniques that allow us to better understand what kind of information neural language models encode and how they do it."
   background:
   discussion:
-  slides:
+  slides: resources/slides/NLP1_Intro_to_Interpretability.pdf
   further: 
   video: 
   code: 
