@@ -204,7 +204,7 @@
     "We will discuss techniques for making LLM outputs safe, including safety fine-tuning and alignment to human preferences."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/LLM-safety.pdf
   further: 
   video: 
   code: 
