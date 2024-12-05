@@ -206,7 +206,7 @@
   discussion:
   slides: resources/slides/LLM-safety.pdf
   further: 
-  video: 
+  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c45ae980-5185-4cd0-98f7-b21300908d30&start=1435.83981
   code: 
   data:  
 -
@@ -222,10 +222,10 @@
     "In this lecture, we will introduce an important NLP application -- dialogue modelling."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-DialogueModelling-2024.pdf
   further:
     - "Chapter 15: [Chatbots & Dialogue Systems](https://web.stanford.edu/~jurafsky/slp3/15.pdf) in Jurafsky and Martin (3rd edition)."
-  video: 
+  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7c1632bb-4e5a-4013-a04e-b213009091d0
   code: 
   data:    
 -
