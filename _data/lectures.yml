@@ -241,10 +241,9 @@
     "In this lecture, we will talk about neural models of sequential data. Examples will include sequence labelling, machine translation and text summarisation."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-2024-neural-sequence-modelling.pdf
   further: 
     - "An introduction to sequence-to-sequence models: [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
-    - "A survey of recent summarisation techniques is available [here](https://arxiv.org/pdf/1804.04589.pdf)"
   video: 
   code: 
   data:  
