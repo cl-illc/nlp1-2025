@@ -260,8 +260,8 @@
     "In this lecture, we will give you a brief summary of the course and how different areas we have studied interface. We will also discuss what to expect at the exam."
   background:
   discussion:
-  slides: 
-  video: 
+  slides: resources/slides/NLP1_2024_Summary_lecture.pdf
+  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=af61cbbb-9f07-4de6-8976-b19b00ffcb3f
   further:
   code: 
   data:   
