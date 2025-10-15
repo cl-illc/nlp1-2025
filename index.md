@@ -8,19 +8,19 @@ Course coordinators: [Ekaterina Shutova](https://www.shutova.org/) and [Wilker A
 
 Lab coordinator: [Vera Neplenbroek](mailto:v.e.neplenbroek@uva.nl)
 
-Senior teaching assistant: [Pieter Pierrot](mailto:p.j.pierrot@uva.nl)
+Senior teaching assistant: [Fivos Tzavellos](mailto:f.i.tzavellos@uva.nl)
 
 Teaching assistants:
 - [Adrian Sauter](mailto:adrian.a.sauter@student.uva.nl)
-- [Baohao Liao](mailto:b.liao@uva.nl)
-- [Charlotte Pouw](mailto:c.m.pouw@uva.nl)
-- [Evgenia Ilia](mailto:e.ilia@uva.nl)
+- Alisia Baielli
+- Arne Eichholz
+- Federica Valeau
 - [Ivo Verhoeven](mailto:i.o.verhoeven2@uva.nl)
-- [John Gkountouras](mailto:i.gkountouras@uva.nl)
+- Iwo Godzwon
+- Izabela Kurek
+- Luan Fletcher
 - [Milan Miletic](mailto:milan.miletic@student.uva.nl)
-- [Mina Janićijević](mailto:mina.janicijevic@student.uva.nl)
-- [Pedro Ferreira](mailto:p.m.ferreira@uva.nl)
-- [Seth Aycock](mailto:s.aycock@uva.nl)
+- [Oliver van Erve](mailto:oliver.van.erven@student.uva.n)
 - [Wafaa Mohammed](mailto:w.m.a.mohammed@uva.nl)
 
 ## Course registration
