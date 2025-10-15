@@ -50,3 +50,13 @@ I left an example lecture, so you can see how to add your own. To make sure your
 # Adding resources
 
 If you need to add resources such as pdfs, latex filex, data, add to the folder `nlp1/resources` and link it from a certain page.
+
+# Setting up for a new edition
+
+```bash
+git clone https://github.com/cl-illc/nlp1-2024.git nlp1-2025
+git remote remove origin
+git remote add origin https://github.com/cl-illc/nlp1-2025.git
+# do what you gotta do, then
+git push -u origin main
+```

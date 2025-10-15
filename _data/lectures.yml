@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2024-10-29
+  date: 2025-10-28
   img: introduction-icon_1-267x300
   uid: intro
   title: "Introduction"
@@ -20,7 +20,7 @@
 -
   layout: lecture
   selected: y
-  date: 2024-10-31
+  date: 2025-10-30
   img: NGramLM-bayesnet
   uid: lec2
   title: "Language modelling"
@@ -44,7 +44,7 @@
 -
   layout: lecture
   selected: y
-  date: 2024-11-05
+  date: 2025-11-04
   img: PoS
   uid: lec3
   title: "Sequence labelling"
@@ -67,7 +67,7 @@
 -
   layout: lecture
   selected: y
-  date: 2024-11-07
+  date: 2025-11-06
   img: Parsing
   uid: lec4
   title: "Modelling syntactic structure"
@@ -90,7 +90,7 @@
 -
   layout: lecture
   selected: y
-  date: 2024-11-12
+  date: 2025-11-11
   img: skip-gram
   uid: lec5
   title: "Lexical semantics and word embeddings"
@@ -113,7 +113,7 @@
 -
   layout: lecture
   selected: y
-  date: 2024-11-14
+  date: 2025-11-13
   img: srn
   uid: lec6
   title: "Compositional semantics and sentence representations"
@@ -136,7 +136,7 @@
 -
   layout: lecture
   selected: y
-  date: 2024-11-19
+  date: 2025-11-18
   img: Discourse
   uid: lec7
   title: "Discourse processing"
@@ -156,7 +156,7 @@
 -
   layout: lecture
   selected: y
-  date: 2024-11-26
+  date: 2025-11-25
   img: BERT
   uid: lec8
   title: "Large language models"
@@ -176,7 +176,7 @@
 -
   layout: lecture
   selected: y
-  date: 2024-11-28
+  date: 2025-11-27
   img: Twitter
   uid: lec9
   title: "Interpretability of NLP models"
@@ -194,7 +194,7 @@
 -
   layout: lecture
   selected: y
-  date: 2024-12-03
+  date: 2025-12-02
   img: MT
   uid: lec10
   title: "LLM safety and alignment"
@@ -212,7 +212,7 @@
 -
   layout: lecture
   selected: y
-  date: 2024-12-05
+  date: 2025-12-04
   img: dialogue
   uid: lec11
   title: "Dialogue modelling"
@@ -231,10 +231,10 @@
 -
   layout: lecture
   selected: y
-  date: 2024-12-10
+  date: 2025-12-9
   img: Summarization
   uid: lec12
-  title: "Language generation and summarisation"
+  title: "Neural sequence modelling"
   instructor: "Wilker Aziz"
   note: 
   abstract: >
@@ -250,7 +250,7 @@
 -
   layout: lecture
   selected: y
-  date: 2024-12-12
+  date: 2025-12-11
   img: Live-1
   uid: lec-final
   title: "Summary of the course and Q&A"
