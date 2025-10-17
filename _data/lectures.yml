@@ -14,7 +14,7 @@
   slides: resources/slides/NLP1-2024-introduction.pdf
   video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=94ab0f83-8a91-469a-b503-b21300905a5b
   further: 
-    - "Chapter 4: [Naive Bayes classification and sentiment](https://web.stanford.edu/~jurafsky/slp3/4.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter B: [Naive Bayes classification and sentiment](https://web.stanford.edu/~jurafsky/slp3/B.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
   data: 
 -
@@ -85,7 +85,7 @@
     - "Required: [Katia's class on morphology (first 43 minutes of the video)](https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ddcd1207-fdfd-4af1-8f09-b153005e380a&start=172.733)"
     - "Required: check this video on [dynamic programming algorithms for PCFGs](https://youtu.be/jM0x_YMmEMM)."
     - "Recommended [Section 18.6](https://web.stanford.edu/~jurafsky/slp3/18.pdf) of textbook."
-    - "Recommended [Appendix C - statistical constituency parsing](https://web.stanford.edu/~jurafsky/slp3/C.pdf)"
+    - "Recommended [Chapter E - statistical constituency parsing](https://web.stanford.edu/~jurafsky/slp3/E.pdf)"
   data:  
 -
   layout: lecture
@@ -102,8 +102,8 @@
   discussion:
   slides: resources/slides/NLP1-lexical-semantics.pdf
   further: 
-    - "Chapter G: [Word Senses and WordNet](https://web.stanford.edu/~jurafsky/slp3/G.pdf) in Jurafsky and Martin (3rd edition)."
-    - "Chapter 6: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter I: [Word Senses and WordNet](https://web.stanford.edu/~jurafsky/slp3/I.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 5: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/5.pdf) in Jurafsky and Martin (3rd edition)."
     - "A gentle introduction to neural networks can be found [here](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)"
     - "The following paper provides a nice explanation of skip-gram with negative sampling: Yoav Goldberg and Omer Levy. [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
     - "[This paper](https://aclanthology.org/P14-2050.pdf) experiments with using syntactic dependency-based contexts to train the skip-gram model and provides some analysis on what kind of information the context vectors encode."
@@ -125,8 +125,8 @@
   discussion:
   slides: resources/slides/NLP1-2024-Lecture-6_Compositional-semantics-and-sentence-representations.pdf
   further: 
-    - "Chapter 7: [Neural networks and neural language models](https://web.stanford.edu/~jurafsky/slp3/7.pdf) in Jurafsky and Martin (3rd edition)."
-    - "Chapter 8: [RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 6: [Neural networks](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 13: [RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/13.pdf) in Jurafsky and Martin (3rd edition)."
     - "A good and general reference for Neural Networks in NLP: Yoav Goldberg. [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726)"
     - "A gentle introduction to LSTMs is available [here](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)"
     - "This is one of the papers that have introduced tree LSTM models: Kai Sheng Tai, Richard Socher, and Christopher D. Manning. [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://aclweb.org/anthology/P/P15/P15-1150.pdf)" 
@@ -224,7 +224,6 @@
   discussion:
   slides: resources/slides/NLP1-DialogueModelling-2024.pdf
   further:
-    - "Chapter 15: [Chatbots & Dialogue Systems](https://web.stanford.edu/~jurafsky/slp3/15.pdf) in Jurafsky and Martin (3rd edition)."
   video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7c1632bb-4e5a-4013-a04e-b213009091d0
   code: 
   data:    
