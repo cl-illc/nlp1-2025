@@ -11,16 +11,17 @@ Lab coordinator: [Vera Neplenbroek](mailto:v.e.neplenbroek@uva.nl)
 Senior teaching assistant: [Fivos Tzavellos](mailto:f.i.tzavellos@uva.nl)
 
 Teaching assistants:
-- [Adrian Sauter](mailto:adrian.a.sauter@student.uva.nl)
-- Alisia Baielli
-- Arne Eichholz
-- Federica Valeau
+- [Adrian Sauter](mailto:a.d.sauter@uva.nl)
+- [Alisia Baielli](mailto:a.s.baielli@uva.nl)
+- [Arne Eichholz](mailto:a.w.eichholtz@uva.nl)
+- [Federica Valeau](mailto:f.valeau@uva.nl)
 - [Ivo Verhoeven](mailto:i.o.verhoeven2@uva.nl)
-- Iwo Godzwon
-- Izabela Kurek
-- Luan Fletcher
-- [Milan Miletic](mailto:milan.miletic@student.uva.nl)
-- [Oliver van Erve](mailto:oliver.van.erven@student.uva.n)
+- [Iwo Godzwon](mailto:i.j.godzwon@uva.nl)
+- [Izabela Kurek](mailto:i.kurek@uva.nl)
+- [Luan Fletcher](mailto:l.fletcher@uva.nl)
+- [Milan Miletic](mailto:m.miletic@uva.nl)
+- [Oliver van Erve](mailto:o.d.vanerven@uva.nl)
+- [Teo Stereciu](mailto:t.stereciu@uva.nl)
 - [Wafaa Mohammed](mailto:w.m.a.mohammed@uva.nl)
 
 ## Course registration
@@ -68,8 +69,8 @@ The third edition of the book is currently in preparation and some of the chapte
 
 Practical assignments are handled on Canvas, check there for accurate deadlines. Pen-and-paper exercises are handled on ANS, check there for accurate deadlines. For the exam, always check and trust the information on Datanose. With this disclaimer, the deadlines (as known at the beginning of the course) are listed below:
 
-- Practical 1: 13 November
-- Practical 2 and report: 13 December
-- Exercises: 14 November, 21 November, 5 December
-- Exam: 17 December
+- Practical 1: 12 November
+- Practical 2 and report: 12 December
+- Exercises: 13 November, 20 November, 4 December
+- Exam: 16 December
 
