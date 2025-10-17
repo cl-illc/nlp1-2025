@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2024-11-13
+  date: 2025-11-12
   img: prac
   uid: practical1
   title: "Practical I"
@@ -9,13 +9,13 @@
   abstract: 
   background:
   discussion:
-  instructions: https://drive.google.com/file/d/1NrO7jml63qz0CVfSDUVEjNlGyed2a8f0/view?usp=sharing
+  instructions: https://drive.google.com/file/d/1cLz0ViEpvixZq4izIzI-qTpongNBslqw/view?usp=sharing
   data:
   code:
 -
   layout: lecture
   selected: y
-  date: 2024-11-15
+  date: 2025-11-14
   img: prac
   uid: intropytorch
   title: "Introduction to PyTorch"
@@ -29,7 +29,7 @@
 -
   layout: lecture
   selected: y
-  date: 2024-12-13
+  date: 2025-12-12
   img: prac
   uid: practical2
   title: "Practical II"
@@ -37,7 +37,7 @@
   abstract:
   background:
   discussion:
-  instructions: https://drive.google.com/file/d/17tE4nWQzyrSQVDE77jl7G3NAdV407CT2/view?usp=sharing
+  instructions: https://drive.google.com/file/d/1LOPt5fyLBLNYQXQkCXdQ0ZdsGgoKfOf_/view?usp=sharing
   data: assessment.html
   code:
 
