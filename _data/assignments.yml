@@ -9,9 +9,9 @@
   abstract: 
   background:
   discussion:
-  instructions: https://drive.google.com/file/d/1cLz0ViEpvixZq4izIzI-qTpongNBslqw/view?usp=sharing
+  instructions: 
   data:
-  code:
+  code: https://drive.google.com/file/d/1cLz0ViEpvixZq4izIzI-qTpongNBslqw/view?usp=sharing
 -
   layout: lecture
   selected: y
@@ -33,7 +33,7 @@
   img: prac
   uid: practical2
   title: "Practical II"
-  note: "see Data button for detailed report instructions"
+  note: "see Instructions button for detailed report instructions"
   abstract:
   background:
   discussion:
