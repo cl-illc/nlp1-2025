@@ -20,7 +20,7 @@ Teaching assistants:
 - [Izabela Kurek](mailto:i.kurek@uva.nl)
 - [Luan Fletcher](mailto:l.fletcher@uva.nl)
 - [Milan Miletic](mailto:m.miletic@uva.nl)
-- [Oliver van Erve](mailto:o.d.vanerven@uva.nl)
+- [Oliver van Erven](mailto:o.d.vanerven@uva.nl)
 - [Teo Stereciu](mailto:t.stereciu@uva.nl)
 - [Wafaa Mohammed](mailto:w.m.a.mohammed@uva.nl)
 
