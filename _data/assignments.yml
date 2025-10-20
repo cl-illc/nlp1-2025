@@ -37,7 +37,7 @@
   abstract:
   background:
   discussion:
-  instructions: https://drive.google.com/file/d/1LOPt5fyLBLNYQXQkCXdQ0ZdsGgoKfOf_/view?usp=sharing
-  data: assessment.html
-  code:
+  instructions: assessment.html
+  data: 
+  code: https://drive.google.com/file/d/1LOPt5fyLBLNYQXQkCXdQ0ZdsGgoKfOf_/view?usp=sharing
 
