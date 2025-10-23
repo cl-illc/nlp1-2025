@@ -6,7 +6,7 @@ menu: no
 
 ## Report instructions
 
-Your report needs to be written in LaTeX. You are required to use the ACL template which you can download from or edit directly on [Overleaf]([https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj)). Make sure your names and student numbers are visible at the top. (Tip: you need to change `review` to `final` in `\usepackage[review]{acl}`).
+Your report needs to be written in LaTeX. You are required to use the ACL template which you can download from or edit directly on [Overleaf](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj). Make sure your names and student numbers are visible at the top. (Tip: you need to change `review` to `final` in `\usepackage[review]{acl}`).
 You can find some general tips about writing a research paper [here](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/), but note that you need to make your own judgment about what is appropriate for this project. 
 
 We expect you to use the following structure:
@@ -35,6 +35,8 @@ cover the main techniques ("building blocks") used in your project (e.g. word em
     - What have you learned from you experiments? How does it relate to what is already known in the literature?
     - Were the results as expected? Any surprising results? Why?
     - Based on what you learned what would you suggest doing next?
+
+At the end of your report (outside of the page limit), **you are expected to include a section titled 'Use of AI tools'**. By submitting the report you and your team member(s) testify that you did not use AI (LM-based tools and assistants (e.g. ChatGPT, UvA AI Chat, Gemini, etc.)) to draft an earlier version of your work, complete your code, suggest algorithms, revise your work or make suggestions that you implemented. If you did make use of an AI tool, you should describe the uses you made of it in the 'Use of AI tools' section, or indicate that no such tool was used.
 
 **You lose points for bad writing style** (because you are asked to prepare a conference-style report).
 
