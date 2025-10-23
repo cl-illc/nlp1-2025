@@ -96,7 +96,31 @@
         </div><!-- /.modal-dialog -->
       </div><!-- /.modal -->
     {% endif %}
-    
+
+    {% if include.lecture.homework or include.lecture.homeworkwarn %}
+      <a data-toggle="modal" href="#further{{ include.lecture.uid }}" class="label label-danger">Homework</a>
+      <!-- Modal -->
+      <div class="modal fade" id="further{{ include.lecture.uid }}" tabindex="-1" role="dialog" aria-hidden="true"> <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+              <h4 class="modal-title">{{ include.lecture.title }} | Homework</h4>
+            </div>
+            <div class="modal-body">
+                {% if include.lecture.homeworkwarn %}
+                    {{ include.lecture.homeworkwarn | markdownify }}
+                {% endif %}
+                <ul>
+                {% for task in include.lecture.homework %}
+                    <li>{{ task | markdownify }}</li>
+                {% endfor %}
+                </ul>
+            </div>
+          </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+      </div><!-- /.modal -->
+    {% endif %}
+      
     {% if include.lecture.further or include.lecture.furtherwarn %}
       <a data-toggle="modal" href="#further{{ include.lecture.uid }}" class="label label-warning">Further reading</a>
       <!-- Modal -->
