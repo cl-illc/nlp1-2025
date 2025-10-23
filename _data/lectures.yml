@@ -27,18 +27,16 @@
   instructor: "Wilker Aziz"
   abstract: >
     "In this lecture, we will discuss language models, i.e. modelling word sequences, using statistical techniques."
-  note: Do check the _background_ and _further reading_ for required and suggested self-study material.
+  note: Do check the _background_ for required and suggested self-study material.
   background: 
-    - "Required self-study: [representing and estimating tabular Categorical distributions](https://youtu.be/1vE8zKj0-GI)"
-    - "Optional, but highly recommended: it can be useful to learn a little bit about directed graphical models and tabular representation of conditional probability distributions. Check this [video](https://www.youtube.com/watch?v=9lmFfhzpWag) and [slides](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa29uMS0tU2xqWk04NzEwVzJ2Ukc0Wm1CRTBSQXxBQ3Jtc0tuSkZxcmdGQmcwenpMeU5lZVVUbXJKVXZtUEVORmw1R0FEV1dIZ09la2Q5bWRhUllsM25KeHJwSkJrNnhncWIzcnZ1ci1qMWo3UUVTOXdCeWVISFk5Y01TaER0RHdIWHF5Z0hiZzRMcDZ5Ml8zRTJkMA&q=https%3A%2F%2Fwilkeraziz.github.io%2Fassets%2Fpdfs%2Fslides-appendix-PGM.pdf&v=9lmFfhzpWag)"
-  discussion:
-  mentimeter: https://www.mentimeter.com/app/presentation/n/al5s98g69c7vxxyhmq56636fgxwmvr8o/edit?source=share-modal 
+    - "Required self-study: representing and estimating tabular Categorical distributions - on Canvas Media Gallery or [YouTube](https://youtu.be/1vE8zKj0-GI)"
+    - "Optional, but highly recommended: it can be useful to learn a little bit about directed graphical models and tabular representation of conditional probability distributions. Check this [video](https://www.youtube.com/watch?v=9lmFfhzpWag) (also available on Canvas Media Gallery) and [slides](https://github.com/wilkeraziz/wilkeraziz.github.io/blob/master/assets/pdfs/slides-appendix-PGM.pdf)"
+  discussion:  
   slides: resources/slides/NLP1-language-modelling.pdf
-  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7af18a66-d2ec-4ade-b15f-b213009060ce 
-  further: 
+  homework: 
     - "Required - Section 3.2 (evaluation LMs) from [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
     - "Optional - Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."    
-    - "Necessary for PnP1 - How to sample from a Categorical distribution: [video](https://youtu.be/49a378GuMXM?si=exGGZnbiNpyrby3W) or [section 3.4 of textbook](https://web.stanford.edu/~jurafsky/slp3/3.pdf) "
+    - "Necessary for PnP1 - How to sample from a Categorical distribution: on Canvas Media Gallery or [YouTube](https://youtu.be/49a378GuMXM?si=exGGZnbiNpyrby3W) or [section 3.4 of textbook](https://web.stanford.edu/~jurafsky/slp3/3.pdf) "
   code: 
   data:  
 -
@@ -49,17 +47,17 @@
   uid: lec3
   title: "Sequence labelling"
   instructor: "Wilker Aziz"
-  note: Do check the _background_ and _further reading_ for required and suggested self-study material.
+  note: Do check the _background_ for required and suggested self-study material.
   abstract: >
     "In this lecture, we will discuss labelling tasks such as part-of-speech tagging, named-entity recognition and semantic role labelling."
   background:
-    - "Required self-study: representing and estimating logistic Categorical distributions ([part 1/2 theory](https://youtu.be/5oz2vAzAs8k), [part 2/2 example](https://youtu.be/DsflDpm5h-c))"
+    - "Required self-study: representing and estimating logistic Categorical distributions (Canvas Media Gallery or [YouTube - part 1/2 theory](https://youtu.be/5oz2vAzAs8k), [YouTube - part 2/2 example](https://youtu.be/DsflDpm5h-c))"
   discussion:
   mentimeter: 
   slides: resources/slides/NLP1-sequence-labelling.pdf
-  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1931cb98-dfff-4ae3-aa11-b21300906689 
-  further:     
-    - "Required self-study: [value recursion for HMMs](https://youtu.be/rVCd7NrGcSI)"
+  video:
+  homework:     
+    - "Required self-study: value recursion for HMMs on Canvas Media Gallery or [YouTube](https://youtu.be/rVCd7NrGcSI)"
     - "Play with the [Colab example](https://colab.research.google.com/drive/19LiLszW61-XCvMMdyrQKq8x_hVqEpM_P?usp=sharing) if you like"
     - "Chapter 17.2: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/17.pdf) in Jurafsky and Martin (3rd edition)."
   code: https://colab.research.google.com/drive/19LiLszW61-XCvMMdyrQKq8x_hVqEpM_P?usp=sharing
@@ -72,7 +70,7 @@
   uid: lec4
   title: "Modelling syntactic structure"
   instructor: "Wilker Aziz"
-  note: Do check _further reading_ for required and suggested self-study material.
+  note: 
   abstract: >
     "In this lecture, we will introduce syntax and ideas to model it."
   background:
@@ -81,9 +79,9 @@
   slides: resources/slides/NLP1-modelling-syntactic-structure.pdf 
   video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1388f80a-a124-4af9-ad68-b21300906b9d
   code: https://colab.research.google.com/drive/11UGhml-TKGh10eKDF5y5-ZSHzwSNvvfF?usp=sharing
-  further: 
+  homework: 
     - "Required: [Katia's class on morphology (first 43 minutes of the video)](https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ddcd1207-fdfd-4af1-8f09-b153005e380a&start=172.733)"
-    - "Required: check this video on [dynamic programming algorithms for PCFGs](https://youtu.be/jM0x_YMmEMM)."
+    - "Required: check video on dynamic programming algorithms for PCFGs on Canvas Media Gallery or [YouTube](https://youtu.be/jM0x_YMmEMM)."
     - "Recommended [Section 18.6](https://web.stanford.edu/~jurafsky/slp3/18.pdf) of textbook."
     - "Recommended [Chapter E - statistical constituency parsing](https://web.stanford.edu/~jurafsky/slp3/E.pdf)"
   data:  
