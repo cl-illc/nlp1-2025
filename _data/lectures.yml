@@ -174,24 +174,6 @@
 -
   layout: lecture
   selected: y
-  date: 2025-11-27
-  img: Twitter
-  uid: lec9
-  title: "Interpretability of NLP models"
-  instructor: "Michael Hanna"
-  note: 
-  abstract: >
-    "We will discuss techniques that allow us to better understand what kind of information neural language models encode and how they do it."
-  background:
-  discussion:
-  slides: 
-  further: 
-  video: 
-  code: 
-  data:  
--
-  layout: lecture
-  selected: y
   date: 2025-12-02
   img: MT
   uid: lec10
@@ -247,19 +229,38 @@
 -
   layout: lecture
   selected: y
-  date: 2025-12-11
+  date: 2025-12-09
   img: Live-1
   uid: lec-final
-  title: "Summary of the course and Q&A"
-  instructor: "Ekaterina Shutova and Wilker Aziz"
+  title: "LLMs in practice and LLM agents"
+  instructor: "Fivos Tzavellos and Baohao Liao"
   note: 
   abstract: >
-    "In this lecture, we will give you a brief summary of the course and how different areas we have studied interface. We will also discuss what to expect at the exam."
+    "In this lecture, we will discuss LLM use in practice, i.e. various prompting strategies and techniques for parameter efficient fine-tuning, and then talk about LLM agents and their memory."
   background:
   discussion:
-  slides: resources/slides/NLP1_2024_Summary_lecture.pdf
-  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=af61cbbb-9f07-4de6-8976-b19b00ffcb3f
+  slides: 
+  video: 
   further:
   code: 
-  data:   
+  data: 
+-
+  layout: lecture
+  selected: y
+  date: 2025-12-11
+  img: Twitter
+  uid: lec9
+  title: "Interpretability of NLP models"
+  instructor: "Michael Hanna"
+  note: 
+  abstract: >
+    "We will discuss techniques that allow us to better understand what kind of information neural language models encode and how they do it."
+  background:
+  discussion:
+  slides: 
+  further: 
+  video: 
+  code: 
+  data:  
+ 
 
