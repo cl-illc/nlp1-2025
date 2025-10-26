@@ -155,6 +155,25 @@
   layout: lecture
   selected: y
   date: 2025-11-25
+  img: Summarization
+  uid: lec12
+  title: "Neural sequence modelling"
+  instructor: "Wilker Aziz"
+  note: 
+  abstract: >
+    "In this lecture, we will talk about neural models of sequential data. Examples will include sequence labelling, machine translation and text summarisation."
+  background:
+  discussion:
+  slides: 
+  further: 
+    - "An introduction to sequence-to-sequence models: [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
+  video:  
+  code: 
+  data:  
+-
+  layout: lecture
+  selected: y
+  date: 2025-11-27
   img: BERT
   uid: lec8
   title: "Large language models"
@@ -178,7 +197,7 @@
   img: MT
   uid: lec10
   title: "LLM safety and alignment"
-  instructor: "Guest lecture by Pushkar Mishra (DeepMind)"
+  instructor: "Ivo Verhoeven"
   note: 
   abstract: >
     "We will discuss techniques for making LLM outputs safe, including safety fine-tuning and alignment to human preferences."
@@ -207,25 +226,6 @@
   video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7c1632bb-4e5a-4013-a04e-b213009091d0
   code: 
   data:    
--
-  layout: lecture
-  selected: y
-  date: 2025-12-9
-  img: Summarization
-  uid: lec12
-  title: "Neural sequence modelling"
-  instructor: "Wilker Aziz"
-  note: 
-  abstract: >
-    "In this lecture, we will talk about neural models of sequential data. Examples will include sequence labelling, machine translation and text summarisation."
-  background:
-  discussion:
-  slides: resources/slides/NLP1-neural-sequence-modelling.pdf
-  further: 
-    - "An introduction to sequence-to-sequence models: [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
-  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a138b283-fbe5-4e40-aa59-b2130090969c 
-  code: 
-  data:  
 -
   layout: lecture
   selected: y
