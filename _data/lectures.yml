@@ -98,14 +98,14 @@
     "In this lecture, we will introduce statistical models of word meaning, discuss generalisation from words to semantic classes and learning dense vector representations - word embeddings."
   background:
   discussion:
-  slides: resources/slides/NLP1-lexical-semantics.pdf
+  slides: 
   further: 
     - "Chapter I: [Word Senses and WordNet](https://web.stanford.edu/~jurafsky/slp3/I.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 5: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/5.pdf) in Jurafsky and Martin (3rd edition)."
     - "A gentle introduction to neural networks can be found [here](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)"
     - "The following paper provides a nice explanation of skip-gram with negative sampling: Yoav Goldberg and Omer Levy. [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
     - "[This paper](https://aclanthology.org/P14-2050.pdf) experiments with using syntactic dependency-based contexts to train the skip-gram model and provides some analysis on what kind of information the context vectors encode."
-  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=050e1289-a29f-4b7a-a1dd-b2130090714f&start=432.230037
+  video: 
   code: 
   data:    
 -
@@ -121,14 +121,14 @@
     "In this lecture, we will discuss compositional semantics, i.e. modelling the meaning of phrases and sentences, and learning neural representations of sentences."
   background:
   discussion:
-  slides: resources/slides/NLP1-2024-Lecture-6_Compositional-semantics-and-sentence-representations.pdf
+  slides: 
   further: 
     - "Chapter 6: [Neural networks](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 13: [RNNs and LSTMs](https://web.stanford.edu/~jurafsky/slp3/13.pdf) in Jurafsky and Martin (3rd edition)."
     - "A good and general reference for Neural Networks in NLP: Yoav Goldberg. [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726)"
     - "A gentle introduction to LSTMs is available [here](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)"
     - "This is one of the papers that have introduced tree LSTM models: Kai Sheng Tai, Richard Socher, and Christopher D. Manning. [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://aclweb.org/anthology/P/P15/P15-1150.pdf)" 
-  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=82bca1cf-4dcf-48a8-8a5d-b228010220b9
+  video: 
   code: 
   data:    
 -
@@ -144,11 +144,11 @@
     "In this lecture, we will discuss discourse processing, i.e. modelling larger text fragments."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture7.pdf
+  slides: 
   further: 
     - "Chapter 23: [Coreference Resolution and Entity Linking](https://web.stanford.edu/~jurafsky/slp3/23.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 24: [Discourse coherence](https://web.stanford.edu/~jurafsky/slp3/24.pdf) in Jurafsky and Martin (3rd edition)." 
-  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=04002635-f37f-4bab-ae49-b21300907adf&start=0.894223
+  video: 
   code: 
   data:  
 -
@@ -164,11 +164,11 @@
     "In this session, we will discuss large language models, their pretraining strategies, their architectures and their applications."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture8-LLMs.pdf
+  slides: 
   further:
     - "The slides list a number of papers that constitute the further reading material for this lecture."
     - "The [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) blog provides a very nice introduction to the Transformer architecture."
-  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ae0cccb9-7738-4388-85d0-b21300908307&start=246.417569
+  video: 
   code: 
   data:  
 -
@@ -184,9 +184,9 @@
     "We will discuss techniques that allow us to better understand what kind of information neural language models encode and how they do it."
   background:
   discussion:
-  slides: resources/slides/NLP1_Intro_to_Interpretability.pdf
+  slides: 
   further: 
-  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=06bbec2e-4070-4bf3-bcbb-b21300908779
+  video: 
   code: 
   data:  
 -
@@ -202,9 +202,9 @@
     "We will discuss techniques for making LLM outputs safe, including safety fine-tuning and alignment to human preferences."
   background:
   discussion:
-  slides: resources/slides/LLM-safety.pdf
+  slides: 
   further: 
-  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c45ae980-5185-4cd0-98f7-b21300908d30&start=1435.83981
+  video:
   code: 
   data:  
 -
