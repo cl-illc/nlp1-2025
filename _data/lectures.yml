@@ -11,7 +11,7 @@
     "Introduction to the course"
   background: 
   discussion:
-  slides: resources/slides/NLP1-2025-introduction.pdf
+  slides: resources/slides/NLP1-introduction.pdf
   video: 
   further: 
     - "Chapter B: [Naive Bayes classification and sentiment](https://web.stanford.edu/~jurafsky/slp3/B.pdf) in Jurafsky and Martin (3rd edition)."
