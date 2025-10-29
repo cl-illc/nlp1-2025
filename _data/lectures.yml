@@ -194,6 +194,24 @@
   layout: lecture
   selected: y
   date: 2025-12-02
+  img: dialogue
+  uid: lec11
+  title: "Building open LLMs"
+  instructor: "Guest lecture by Duarte Alves"
+  note: 
+  abstract: >
+    "In this lecture, we will discuss good practices in LLM development."
+  background:
+  discussion:
+  slides: 
+  further:
+  video: 
+  code: 
+  data:  
+-
+  layout: lecture
+  selected: y
+  date: 2025-12-04
   img: MT
   uid: lec10
   title: "LLM safety and alignment"
@@ -208,24 +226,6 @@
   video:
   code: 
   data:  
--
-  layout: lecture
-  selected: y
-  date: 2025-12-04
-  img: dialogue
-  uid: lec11
-  title: "Dialogue modelling"
-  instructor: "Raquel Fernandez"
-  note: 
-  abstract: >
-    "In this lecture, we will introduce an important NLP application -- dialogue modelling."
-  background:
-  discussion:
-  slides: resources/slides/NLP1-DialogueModelling-2024.pdf
-  further:
-  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7c1632bb-4e5a-4013-a04e-b213009091d0
-  code: 
-  data:    
 -
   layout: lecture
   selected: y
@@ -250,7 +250,7 @@
   date: 2025-12-11
   img: Twitter
   uid: lec9
-  title: "Interpretability of NLP models"
+  title: "Interpretability of language models"
   instructor: "Michael Hanna"
   note: 
   abstract: >
