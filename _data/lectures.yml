@@ -12,7 +12,7 @@
   background: 
   discussion:
   slides: resources/slides/NLP1-introduction.pdf
-  video: 
+  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fc4829e4-8530-4f6f-a458-b384008a9a6b
   further: 
     - "Chapter B: [Naive Bayes classification and sentiment](https://web.stanford.edu/~jurafsky/slp3/B.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
@@ -33,6 +33,7 @@
     - "Optional, but highly recommended: it can be useful to learn a little bit about directed graphical models and tabular representation of conditional probability distributions. Check this [video](https://www.youtube.com/watch?v=9lmFfhzpWag) (also available on Canvas Media Gallery) and [slides](https://github.com/wilkeraziz/wilkeraziz.github.io/blob/master/assets/pdfs/slides-appendix-PGM.pdf)"
   discussion:  
   slides: resources/slides/NLP1-language-modelling.pdf
+  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6ec25488-cfbb-474c-95b2-b37f0084b204
   homework: 
     - "Required - Section 3.2 (evaluation LMs) from [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
     - "Optional - Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."    
