@@ -99,7 +99,7 @@
     "In this lecture, we will introduce statistical models of word meaning, discuss generalisation from words to semantic classes and learning dense vector representations - word embeddings."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lex-semantics.pdf 
   further: 
     - "Chapter I: [Word Senses and WordNet](https://web.stanford.edu/~jurafsky/slp3/I.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 5: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/5.pdf) in Jurafsky and Martin (3rd edition)."
