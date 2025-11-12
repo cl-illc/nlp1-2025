@@ -69,6 +69,6 @@ Practical assignments are handled on Canvas, check there for accurate deadlines.
 
 - Practical 1: 12 November
 - Practical 2 and report: 12 December
-- Exercises: ~13 November~ 14 November, 20 November, 4 December
+- Exercises: ~13~ 14 November, 20 November, 4 December
 - Exam: 16 December
 
