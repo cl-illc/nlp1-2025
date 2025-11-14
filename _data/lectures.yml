@@ -56,7 +56,7 @@
   discussion:
   mentimeter: 
   slides: resources/slides/NLP1-sequence-labelling.pdf
-  video:
+  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b586c065-7620-47f0-ba04-b384008a9b38
   homework:     
     - "Required self-study: value recursion for HMMs on Canvas Media Gallery or [YouTube](https://youtu.be/rVCd7NrGcSI)"
     - "Play with the [Colab example](https://colab.research.google.com/drive/19LiLszW61-XCvMMdyrQKq8x_hVqEpM_P?usp=sharing) if you like"
