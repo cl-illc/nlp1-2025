@@ -168,7 +168,7 @@
   slides: resources/slides/neural-sequence-modelling.pdf
   further: 
     - "An introduction to sequence-to-sequence models: [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
-  video:  
+  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5b36d22f-d342-4447-81bb-b384008a998c
   code: 
   data:  
 -
