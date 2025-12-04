@@ -204,7 +204,7 @@
     "In this lecture, we will discuss good practices in LLM development."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/Building_Open_LLMs-UvA_20251202.pdf
   further:
   video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fee54a21-db11-495e-85a2-b384008a98ba
   code: 
