@@ -222,7 +222,7 @@
     "We will discuss techniques for making LLM outputs safe, including safety fine-tuning and alignment to human preferences."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/nlp1-alignment.pdf
   further: 
   video:
   code: 
