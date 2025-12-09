@@ -240,9 +240,10 @@
     "In this lecture, we will discuss LLM use in practice, i.e. various prompting strategies and techniques for parameter efficient fine-tuning, and then talk about LLM agents and their memory."
   background:
   discussion:
-  slides: 
-  video: 
+  slides: resources/slides/LLMs_in_Practice.pdf
+  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d0f74b5d-b352-434a-9937-b384008a9c50
   further:
+    - "The slides list a number of papers that constitute the further reading material for this lecture."
   code: 
   data: 
 -
