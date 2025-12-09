@@ -68,7 +68,7 @@ Jurafsky, D. & Martin, J. Speech and language processing. 3rd edition, available
 Practical assignments are handled on Canvas, check there for accurate deadlines. Pen-and-paper exercises are handled on ANS, check there for accurate deadlines. For the exam, always check and trust the information on Datanose. With this disclaimer, the deadlines (as known at the beginning of the course) are listed below:
 
 - Practical 1: 12 November
-- Practical 2 and report: 12 December
+- Practical 2 and report: 19 December
 - Exercises: 14 November, 20 November, 4 December
 - Exam: 16 December
 
