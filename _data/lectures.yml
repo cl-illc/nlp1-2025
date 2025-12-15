@@ -259,9 +259,9 @@
     "We will discuss techniques that allow us to better understand what kind of information neural language models encode and how they do it."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1_Intro_to_Interpretability_2025.pdf
   further: 
-  video: 
+  video: https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=069cf6b1-222d-46c2-8bf9-b37f00849ba3
   code: 
   data:  
  
